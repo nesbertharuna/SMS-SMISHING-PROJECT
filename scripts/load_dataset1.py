@@ -53,6 +53,13 @@ def load_dataset1(path: str | Path) -> pd.DataFrame:
         )
         .reset_index(drop=True)
     )
+    unique_messages = len(df)
+    if unique_messages < 50:
+        print(
+            f"WARNING: Only {unique_messages} unique messages after normalization. "
+            "ML metrics will be unstable on tiny datasets. "
+            "Consider using the UCI SMS dataset (`--dataset uci`) for evaluation."
+        )
     return df[["label", "message", "source"]]
 
 

@@ -34,3 +34,40 @@ That file is typically tab-separated with **two columns** and **no header**:
 - `data/processed/uci_sms.csv`: normalized CSV with columns `label` (0/1) and `message`
 - `data/splits/train.csv`, `val.csv`, `test.csv`: stratified splits
 
+## Data collection (manual + public sources)
+
+Collect your own labelled SMS samples (thesis / Zimbabwe-style smishing examples):
+
+```bash
+# Interactive: type label, message, feature_notes
+python scripts/collect_sms.py add
+
+# One-shot from command line
+python scripts/collect_sms.py add --label smishing --message "Your OTP is required..." --feature-notes "urgency, credential_request"
+
+# Import a batch CSV or JSONL (see data/raw/collected_sms_template.csv)
+python scripts/collect_sms.py import data/raw/collected_sms_template.csv --dedupe
+
+# Show counts
+python scripts/collect_sms.py stats
+```
+
+Download public benchmark data (UCI SMS Spam Collection):
+
+```bash
+python scripts/download_datasets.py --uci --uci-to-collected
+```
+
+Merge collected + optional UCI into `ml-backend/dataset/Dataset1.csv`:
+
+```bash
+python scripts/merge_datasets.py --only-collected
+python scripts/merge_datasets.py --include-existing --include-uci
+```
+
+Then train as usual:
+
+```bash
+python scripts/train_full_pipeline.py --dataset dataset1
+```
+

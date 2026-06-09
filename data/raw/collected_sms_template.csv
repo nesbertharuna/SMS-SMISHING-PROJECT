@@ -1,0 +1,5 @@
+label,message,feature_notes
+benign,Econet: You have successfully purchased a WhatsApp bundle.,banking_notification
+smishing,Econet Alert: Your line will be disconnected in 24 hours. Verify now at http://econet-security-update.com,"urgency, malicious_url"
+benign,Your EcoCash transaction of USD 5.00 was completed successfully.,banking_notification
+smishing,You are selected for a loan approval. Send national ID and PIN.,"impersonation, credential_request"

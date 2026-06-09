@@ -1,601 +1,501 @@
 label,message,feature_notes
-benign,Econet: You have successfully purchased a WhatsApp bundle.,SMS Service
-smishing,Final warning: SIM registration incomplete. Update details immediately.,SMS Service
-smishing,Econet Alert: Your line will be disconnected in 24 hours. Verify now at http://econet-security-update.com,SMS Service
-benign,Happy birthday! Wishing you a wonderful year ahead.,Rewards
-benign,Class timetable updated. Please check the university portal.,Lifestyle
-benign,Class timetable updated. Please check the university portal.,Lifestyle
-benign,Your EcoCash transaction of USD 5.00 was completed successfully.,Bank/Finance
-smishing,You are selected for a loan approval. Send national ID and PIN.,Bank/Finance
-benign,Your EcoCash transaction of USD 5.00 was completed successfully.,Bank/Finance
-smishing,Final warning: SIM registration incomplete. Update details immediately.,SMS Service
-benign,Your EcoCash transaction of USD 5.00 was completed successfully.,Bank/Finance
-benign,Reminder: Your appointment at Bindura Hospital is tomorrow at 10AM.,Lifestyle
-benign,Your Mukuru transfer is ready for collection at the nearest branch.,Lifestyle
-smishing,Customer Service: Your account has unusual login attempts. Confirm password urgently.,Accounts
-smishing,WhatsApp account compromised. Click www.verify-whatsapp-login.com now.,Accounts
-benign,Econet: You have successfully purchased a WhatsApp bundle.,SMS Service
-benign,NetOne: Recharge successful. You received 500MB bonus data.,SMS Service
-benign,Your package is ready for pickup at the local post office.,Lifestyle
-benign,Econet: You have successfully purchased a WhatsApp bundle.,SMS Service
-benign,Your Mukuru transfer is ready for collection at the nearest branch.,Lifestyle
-benign,Church service starts at 9AM this Sunday in Bindura.,Lifestyle
-smishing,ZIMRA Tax Refund: Submit your banking details to receive payment.,Bank/Finance
-smishing,Congratulations! You won USD500 EcoCash reward. Claim now.,Bank/Finance
-smishing,ZIMRA Tax Refund: Submit your banking details to receive payment.,Bank/Finance
-smishing,Customer Service: Your account has unusual login attempts. Confirm password urgently.,Accounts
-smishing,Econet Alert: Your line will be disconnected in 24 hours. Verify now at http://econet-security-update.com,SMS Service
-benign,Your EcoCash transaction of USD 5.00 was completed successfully.,Bank/Finance
-benign,Class timetable updated. Please check the university portal.,Lifestyle
-smishing,Congratulations! You won USD500 EcoCash reward. Claim now.,Bank/Finance
-smishing,Your Mukuru account was flagged. Verify identity now to avoid suspension.,Accounts
-smishing,Final warning: SIM registration incomplete. Update details immediately.,SMS Service
-benign,Econet: You have successfully purchased a WhatsApp bundle.,SMS Service
-benign,Your Mukuru transfer is ready for collection at the nearest branch.,Lifestyle
-benign,Your EcoCash transaction of USD 5.00 was completed successfully.,Bank/Finance
-benign,NetOne: Recharge successful. You received 500MB bonus data.,SMS Service
-smishing,EcoCash: Your wallet has been suspended. Confirm PIN immediately.,Bank/Finance
-benign,Your EcoCash transaction of USD 5.00 was completed successfully.,Bank/Finance
-smishing,Customer Service: Your account has unusual login attempts. Confirm password urgently.,Accounts
-smishing,Congratulations! You won USD500 EcoCash reward. Claim now.,Bank/Finance
-benign,Econet: You have successfully purchased a WhatsApp bundle.,SMS Service
-smishing,Econet Alert: Your line will be disconnected in 24 hours. Verify now at http://econet-security-update.com,SMS Service
-benign,Reminder: Your appointment at Bindura Hospital is tomorrow at 10AM.,Lifestyle
-smishing,NetOne Promotion! Claim your free airtime reward here: bit.ly/free-netone,Rewards
-smishing,WhatsApp account compromised. Click www.verify-whatsapp-login.com now.,Accounts
-benign,NetOne: Recharge successful. You received 500MB bonus data.,SMS Service
-benign,Church service starts at 9AM this Sunday in Bindura.,Lifestyle
-smishing,ZIMRA Tax Refund: Submit your banking details to receive payment.,Bank/Finance
-benign,Your EcoCash transaction of USD 5.00 was completed successfully.,Bank/Finance
-benign,Your package is ready for pickup at the local post office.,Lifestyle
-smishing,Your Mukuru account was flagged. Verify identity now to avoid suspension.,Accounts
-benign,Your EcoCash transaction of USD 5.00 was completed successfully.,Bank/Finance
-benign,Your Mukuru transfer is ready for collection at the nearest branch.,Lifestyle
-benign,NetOne: Recharge successful. You received 500MB bonus data.,SMS Service
-smishing,NetOne Promotion! Claim your free airtime reward here: bit.ly/free-netone,Rewards
-smishing,NetOne Promotion! Claim your free airtime reward here: bit.ly/free-netone,Rewards
-smishing,Your Mukuru account was flagged. Verify identity now to avoid suspension.,Accounts
-benign,ZESA: Your token purchase was successful.,Lifestyle
-benign,Class timetable updated. Please check the university portal.,Lifestyle
-benign,Econet: You have successfully purchased a WhatsApp bundle.,SMS Service
-benign,Your EcoCash transaction of USD 5.00 was completed successfully.,Bank/Finance
-benign,Happy birthday! Wishing you a wonderful year ahead.,Rewards
-benign,Your Mukuru transfer is ready for collection at the nearest branch.,Lifestyle
-smishing,NetOne Promotion! Claim your free airtime reward here: bit.ly/free-netone,Rewards
-smishing,Your Mukuru account was flagged. Verify identity now to avoid suspension.,Accounts
-smishing,Econet Alert: Your line will be disconnected in 24 hours. Verify now at http://econet-security-update.com,SMS Service
-benign,NetOne: Recharge successful. You received 500MB bonus data.,SMS Service
-smishing,Your Mukuru account was flagged. Verify identity now to avoid suspension.,Accounts
-smishing,Econet Alert: Your line will be disconnected in 24 hours. Verify now at http://econet-security-update.com,SMS Service
-benign,Your EcoCash transaction of USD 5.00 was completed successfully.,Bank/Finance
-smishing,Customer Service: Your account has unusual login attempts. Confirm password urgently.,Accounts
-smishing,EcoCash: Your wallet has been suspended. Confirm PIN immediately.,Bank/Finance
-benign,Econet: You have successfully purchased a WhatsApp bundle.,SMS Service
-smishing,Econet Alert: Your line will be disconnected in 24 hours. Verify now at http://econet-security-update.com,SMS Service
-smishing,Your Mukuru account was flagged. Verify identity now to avoid suspension.,Accounts
-smishing,NetOne Promotion! Claim your free airtime reward here: bit.ly/free-netone,Rewards
-smishing,Final warning: SIM registration incomplete. Update details immediately.,SMS Service
-smishing,Econet Alert: Your line will be disconnected in 24 hours. Verify now at http://econet-security-update.com,SMS Service
-benign,Reminder: Your appointment at Bindura Hospital is tomorrow at 10AM.,Lifestyle
-smishing,Your Mukuru account was flagged. Verify identity now to avoid suspension.,Accounts
-smishing,Econet Alert: Your line will be disconnected in 24 hours. Verify now at http://econet-security-update.com,SMS Service
-benign,Econet: You have successfully purchased a WhatsApp bundle.,SMS Service
-smishing,Congratulations! You won USD500 EcoCash reward. Claim now.,Bank/Finance
-smishing,You are selected for a loan approval. Send national ID and PIN.,Bank/Finance
-smishing,Customer Service: Your account has unusual login attempts. Confirm password urgently.,Accounts
-benign,Econet: You have successfully purchased a WhatsApp bundle.,SMS Service
-benign,Your package is ready for pickup at the local post office.,Lifestyle
-benign,Church service starts at 9AM this Sunday in Bindura.,Lifestyle
-benign,Your Mukuru transfer is ready for collection at the nearest branch.,Lifestyle
-smishing,ZIMRA Tax Refund: Submit your banking details to receive payment.,Bank/Finance
-benign,Your package is ready for pickup at the local post office.,Lifestyle
-benign,Class timetable updated. Please check the university portal.,Lifestyle
-smishing,Your Mukuru account was flagged. Verify identity now to avoid suspension.,Accounts
-benign,NetOne: Recharge successful. You received 500MB bonus data.,SMS Service
-smishing,WhatsApp account compromised. Click www.verify-whatsapp-login.com now.,Accounts
-benign,Your package is ready for pickup at the local post office.,Lifestyle
-benign,Happy birthday! Wishing you a wonderful year ahead.,Rewards
-benign,Class timetable updated. Please check the university portal.,Lifestyle
-benign,Class timetable updated. Please check the university portal.,Lifestyle
-smishing,EcoCash: Your wallet has been suspended. Confirm PIN immediately.,Bank/Finance
-benign,NetOne: Recharge successful. You received 500MB bonus data.,SMS Service
-benign,Happy birthday! Wishing you a wonderful year ahead.,Rewards
-benign,Class timetable updated. Please check the university portal.,Lifestyle
-smishing,You are selected for a loan approval. Send national ID and PIN.,Bank/Finance
-smishing,EcoCash: Your wallet has been suspended. Confirm PIN immediately.,Bank/Finance
-benign,Happy birthday! Wishing you a wonderful year ahead.,Rewards
-smishing,NetOne Promotion! Claim your free airtime reward here: bit.ly/free-netone,Rewards
-benign,Your package is ready for pickup at the local post office.,Lifestyle
-benign,Church service starts at 9AM this Sunday in Bindura.,Lifestyle
-benign,Reminder: Your appointment at Bindura Hospital is tomorrow at 10AM.,Lifestyle
-smishing,Congratulations! You won USD500 EcoCash reward. Claim now.,Bank/Finance
-benign,NetOne: Recharge successful. You received 500MB bonus data.,SMS Service
-smishing,Congratulations! You won USD500 EcoCash reward. Claim now.,Bank/Finance
-smishing,You are selected for a loan approval. Send national ID and PIN.,Bank/Finance
-smishing,Your Mukuru account was flagged. Verify identity now to avoid suspension.,Accounts
-smishing,Econet Alert: Your line will be disconnected in 24 hours. Verify now at http://econet-security-update.com,SMS Service
-smishing,ZIMRA Tax Refund: Submit your banking details to receive payment.,Bank/Finance
-smishing,EcoCash: Your wallet has been suspended. Confirm PIN immediately.,Bank/Finance
-benign,Your EcoCash transaction of USD 5.00 was completed successfully.,Bank/Finance
-smishing,Your Mukuru account was flagged. Verify identity now to avoid suspension.,Accounts
-smishing,NetOne Promotion! Claim your free airtime reward here: bit.ly/free-netone,Rewards
-benign,Church service starts at 9AM this Sunday in Bindura.,Lifestyle
-benign,ZESA: Your token purchase was successful.,Lifestyle
-smishing,Congratulations! You won USD500 EcoCash reward. Claim now.,Bank/Finance
-smishing,You are selected for a loan approval. Send national ID and PIN.,Bank/Finance
-benign,Class timetable updated. Please check the university portal.,Lifestyle
-benign,Your package is ready for pickup at the local post office.,Lifestyle
-smishing,Congratulations! You won USD500 EcoCash reward. Claim now.,Bank/Finance
-benign,Class timetable updated. Please check the university portal.,Lifestyle
-smishing,Your Mukuru account was flagged. Verify identity now to avoid suspension.,Accounts
-smishing,Customer Service: Your account has unusual login attempts. Confirm password urgently.,Accounts
-benign,Class timetable updated. Please check the university portal.,Lifestyle
-smishing,Congratulations! You won USD500 EcoCash reward. Claim now.,Bank/Finance
-benign,Church service starts at 9AM this Sunday in Bindura.,Lifestyle
-benign,ZESA: Your token purchase was successful.,Lifestyle
-smishing,Final warning: SIM registration incomplete. Update details immediately.,SMS Service
-benign,NetOne: Recharge successful. You received 500MB bonus data.,SMS Service
-benign,NetOne: Recharge successful. You received 500MB bonus data.,SMS Service
-benign,ZESA: Your token purchase was successful.,Lifestyle
-benign,Happy birthday! Wishing you a wonderful year ahead.,Rewards
-benign,Your Mukuru transfer is ready for collection at the nearest branch.,Lifestyle
-benign,ZESA: Your token purchase was successful.,Lifestyle
-benign,Reminder: Your appointment at Bindura Hospital is tomorrow at 10AM.,Lifestyle
-benign,Econet: You have successfully purchased a WhatsApp bundle.,SMS Service
-benign,Reminder: Your appointment at Bindura Hospital is tomorrow at 10AM.,Lifestyle
-smishing,EcoCash: Your wallet has been suspended. Confirm PIN immediately.,Bank/Finance
-benign,ZESA: Your token purchase was successful.,Lifestyle
-smishing,Econet Alert: Your line will be disconnected in 24 hours. Verify now at http://econet-security-update.com,SMS Service
-smishing,ZIMRA Tax Refund: Submit your banking details to receive payment.,Bank/Finance
-benign,NetOne: Recharge successful. You received 500MB bonus data.,SMS Service
-benign,Your EcoCash transaction of USD 5.00 was completed successfully.,Bank/Finance
-smishing,ZIMRA Tax Refund: Submit your banking details to receive payment.,Bank/Finance
-smishing,Your Mukuru account was flagged. Verify identity now to avoid suspension.,Accounts
-smishing,EcoCash: Your wallet has been suspended. Confirm PIN immediately.,Bank/Finance
-smishing,Congratulations! You won USD500 EcoCash reward. Claim now.,Bank/Finance
-smishing,Congratulations! You won USD500 EcoCash reward. Claim now.,Bank/Finance
-benign,Class timetable updated. Please check the university portal.,Lifestyle
-benign,Your EcoCash transaction of USD 5.00 was completed successfully.,Bank/Finance
-smishing,EcoCash: Your wallet has been suspended. Confirm PIN immediately.,Bank/Finance
-benign,Church service starts at 9AM this Sunday in Bindura.,Lifestyle
-benign,Your package is ready for pickup at the local post office.,Lifestyle
-smishing,NetOne Promotion! Claim your free airtime reward here: bit.ly/free-netone,Rewards
-benign,Your package is ready for pickup at the local post office.,Lifestyle
-benign,Your package is ready for pickup at the local post office.,Lifestyle
-smishing,ZIMRA Tax Refund: Submit your banking details to receive payment.,Bank/Finance
-smishing,NetOne Promotion! Claim your free airtime reward here: bit.ly/free-netone,Rewards
-benign,Your EcoCash transaction of USD 5.00 was completed successfully.,Bank/Finance
-benign,Econet: You have successfully purchased a WhatsApp bundle.,SMS Service
-benign,ZESA: Your token purchase was successful.,Lifestyle
-smishing,You are selected for a loan approval. Send national ID and PIN.,Bank/Finance
-smishing,NetOne Promotion! Claim your free airtime reward here: bit.ly/free-netone,Rewards
-benign,Econet: You have successfully purchased a WhatsApp bundle.,SMS Service
-benign,Class timetable updated. Please check the university portal.,Lifestyle
-smishing,WhatsApp account compromised. Click www.verify-whatsapp-login.com now.,Accounts
-smishing,Econet Alert: Your line will be disconnected in 24 hours. Verify now at http://econet-security-update.com,SMS Service
-benign,Happy birthday! Wishing you a wonderful year ahead.,Rewards
-benign,Your EcoCash transaction of USD 5.00 was completed successfully.,Bank/Finance
-smishing,Customer Service: Your account has unusual login attempts. Confirm password urgently.,Accounts
-benign,Econet: You have successfully purchased a WhatsApp bundle.,SMS Service
-benign,Reminder: Your appointment at Bindura Hospital is tomorrow at 10AM.,Lifestyle
-benign,Your Mukuru transfer is ready for collection at the nearest branch.,Lifestyle
-benign,NetOne: Recharge successful. You received 500MB bonus data.,SMS Service
-benign,ZESA: Your token purchase was successful.,Lifestyle
-smishing,NetOne Promotion! Claim your free airtime reward here: bit.ly/free-netone,Rewards
-smishing,Your Mukuru account was flagged. Verify identity now to avoid suspension.,Accounts
-smishing,Congratulations! You won USD500 EcoCash reward. Claim now.,Bank/Finance
-smishing,Econet Alert: Your line will be disconnected in 24 hours. Verify now at http://econet-security-update.com,SMS Service
-smishing,EcoCash: Your wallet has been suspended. Confirm PIN immediately.,Bank/Finance
-smishing,EcoCash: Your wallet has been suspended. Confirm PIN immediately.,Bank/Finance
-smishing,Customer Service: Your account has unusual login attempts. Confirm password urgently.,Accounts
-benign,Econet: You have successfully purchased a WhatsApp bundle.,SMS Service
-smishing,Your Mukuru account was flagged. Verify identity now to avoid suspension.,Accounts
-smishing,You are selected for a loan approval. Send national ID and PIN.,Bank/Finance
-benign,Class timetable updated. Please check the university portal.,Lifestyle
-benign,Your package is ready for pickup at the local post office.,Lifestyle
-smishing,WhatsApp account compromised. Click www.verify-whatsapp-login.com now.,Accounts
-benign,Your package is ready for pickup at the local post office.,Lifestyle
-smishing,EcoCash: Your wallet has been suspended. Confirm PIN immediately.,Bank/Finance
-smishing,ZIMRA Tax Refund: Submit your banking details to receive payment.,Bank/Finance
-smishing,ZIMRA Tax Refund: Submit your banking details to receive payment.,Bank/Finance
-benign,Econet: You have successfully purchased a WhatsApp bundle.,SMS Service
-benign,Econet: You have successfully purchased a WhatsApp bundle.,SMS Service
-smishing,Econet Alert: Your line will be disconnected in 24 hours. Verify now at http://econet-security-update.com,SMS Service
-smishing,Customer Service: Your account has unusual login attempts. Confirm password urgently.,Accounts
-benign,NetOne: Recharge successful. You received 500MB bonus data.,SMS Service
-benign,Church service starts at 9AM this Sunday in Bindura.,Lifestyle
-benign,Happy birthday! Wishing you a wonderful year ahead.,Rewards
-benign,Your package is ready for pickup at the local post office.,Lifestyle
-benign,ZESA: Your token purchase was successful.,Lifestyle
-benign,Class timetable updated. Please check the university portal.,Lifestyle
-smishing,Final warning: SIM registration incomplete. Update details immediately.,SMS Service
-smishing,Customer Service: Your account has unusual login attempts. Confirm password urgently.,Accounts
-smishing,Congratulations! You won USD500 EcoCash reward. Claim now.,Bank/Finance
-smishing,Econet Alert: Your line will be disconnected in 24 hours. Verify now at http://econet-security-update.com,SMS Service
-benign,Econet: You have successfully purchased a WhatsApp bundle.,SMS Service
-benign,Your EcoCash transaction of USD 5.00 was completed successfully.,Bank/Finance
-benign,Class timetable updated. Please check the university portal.,Lifestyle
-smishing,Final warning: SIM registration incomplete. Update details immediately.,SMS Service
-benign,Reminder: Your appointment at Bindura Hospital is tomorrow at 10AM.,Lifestyle
-smishing,Your Mukuru account was flagged. Verify identity now to avoid suspension.,Accounts
-benign,Your EcoCash transaction of USD 5.00 was completed successfully.,Bank/Finance
-benign,ZESA: Your token purchase was successful.,Lifestyle
-smishing,EcoCash: Your wallet has been suspended. Confirm PIN immediately.,Bank/Finance
-benign,NetOne: Recharge successful. You received 500MB bonus data.,SMS Service
-smishing,Your Mukuru account was flagged. Verify identity now to avoid suspension.,Accounts
-smishing,You are selected for a loan approval. Send national ID and PIN.,Bank/Finance
-smishing,Econet Alert: Your line will be disconnected in 24 hours. Verify now at http://econet-security-update.com,SMS Service
-smishing,NetOne Promotion! Claim your free airtime reward here: bit.ly/free-netone,Rewards
-smishing,NetOne Promotion! Claim your free airtime reward here: bit.ly/free-netone,Rewards
-benign,Your package is ready for pickup at the local post office.,Lifestyle
-smishing,You are selected for a loan approval. Send national ID and PIN.,Bank/Finance
-benign,Your package is ready for pickup at the local post office.,Lifestyle
-smishing,Econet Alert: Your line will be disconnected in 24 hours. Verify now at http://econet-security-update.com,SMS Service
-benign,Your EcoCash transaction of USD 5.00 was completed successfully.,Bank/Finance
-smishing,NetOne Promotion! Claim your free airtime reward here: bit.ly/free-netone,Rewards
-smishing,Final warning: SIM registration incomplete. Update details immediately.,SMS Service
-benign,Your Mukuru transfer is ready for collection at the nearest branch.,Lifestyle
-smishing,EcoCash: Your wallet has been suspended. Confirm PIN immediately.,Bank/Finance
-benign,Your EcoCash transaction of USD 5.00 was completed successfully.,Bank/Finance
-smishing,Your Mukuru account was flagged. Verify identity now to avoid suspension.,Accounts
-benign,Church service starts at 9AM this Sunday in Bindura.,Lifestyle
-smishing,Your Mukuru account was flagged. Verify identity now to avoid suspension.,Accounts
-smishing,EcoCash: Your wallet has been suspended. Confirm PIN immediately.,Bank/Finance
-smishing,Congratulations! You won USD500 EcoCash reward. Claim now.,Bank/Finance
-benign,Your EcoCash transaction of USD 5.00 was completed successfully.,Bank/Finance
-benign,Church service starts at 9AM this Sunday in Bindura.,Lifestyle
-smishing,Congratulations! You won USD500 EcoCash reward. Claim now.,Bank/Finance
-smishing,NetOne Promotion! Claim your free airtime reward here: bit.ly/free-netone,Rewards
-smishing,Congratulations! You won USD500 EcoCash reward. Claim now.,Bank/Finance
-benign,Your Mukuru transfer is ready for collection at the nearest branch.,Lifestyle
-benign,Church service starts at 9AM this Sunday in Bindura.,Lifestyle
-benign,Your package is ready for pickup at the local post office.,Lifestyle
-benign,Church service starts at 9AM this Sunday in Bindura.,Lifestyle
-benign,Your Mukuru transfer is ready for collection at the nearest branch.,Lifestyle
-smishing,NetOne Promotion! Claim your free airtime reward here: bit.ly/free-netone,Rewards
-benign,Church service starts at 9AM this Sunday in Bindura.,Lifestyle
-benign,ZESA: Your token purchase was successful.,Lifestyle
-smishing,NetOne Promotion! Claim your free airtime reward here: bit.ly/free-netone,Rewards
-benign,ZESA: Your token purchase was successful.,Lifestyle
-benign,Reminder: Your appointment at Bindura Hospital is tomorrow at 10AM.,Lifestyle
-benign,Reminder: Your appointment at Bindura Hospital is tomorrow at 10AM.,Lifestyle
-benign,Class timetable updated. Please check the university portal.,Lifestyle
-smishing,EcoCash: Your wallet has been suspended. Confirm PIN immediately.,Bank/Finance
-smishing,You are selected for a loan approval. Send national ID and PIN.,Bank/Finance
-benign,Your EcoCash transaction of USD 5.00 was completed successfully.,Bank/Finance
-smishing,You are selected for a loan approval. Send national ID and PIN.,Bank/Finance
-smishing,Econet Alert: Your line will be disconnected in 24 hours. Verify now at http://econet-security-update.com,SMS Service
-benign,Happy birthday! Wishing you a wonderful year ahead.,Rewards
-benign,Your package is ready for pickup at the local post office.,Lifestyle
-benign,NetOne: Recharge successful. You received 500MB bonus data.,SMS Service
-smishing,NetOne Promotion! Claim your free airtime reward here: bit.ly/free-netone,Rewards
-smishing,Your Mukuru account was flagged. Verify identity now to avoid suspension.,Accounts
-smishing,Econet Alert: Your line will be disconnected in 24 hours. Verify now at http://econet-security-update.com,SMS Service
-benign,Church service starts at 9AM this Sunday in Bindura.,Lifestyle
-benign,Class timetable updated. Please check the university portal.,Lifestyle
-smishing,ZIMRA Tax Refund: Submit your banking details to receive payment.,Bank/Finance
-smishing,Econet Alert: Your line will be disconnected in 24 hours. Verify now at http://econet-security-update.com,SMS Service
-smishing,NetOne Promotion! Claim your free airtime reward here: bit.ly/free-netone,Rewards
-benign,Econet: You have successfully purchased a WhatsApp bundle.,SMS Service
-benign,Your package is ready for pickup at the local post office.,Lifestyle
-smishing,NetOne Promotion! Claim your free airtime reward here: bit.ly/free-netone,Rewards
-smishing,ZIMRA Tax Refund: Submit your banking details to receive payment.,Bank/Finance
-benign,NetOne: Recharge successful. You received 500MB bonus data.,SMS Service
-smishing,Econet Alert: Your line will be disconnected in 24 hours. Verify now at http://econet-security-update.com,SMS Service
-smishing,Your Mukuru account was flagged. Verify identity now to avoid suspension.,Accounts
-smishing,Customer Service: Your account has unusual login attempts. Confirm password urgently.,Accounts
-smishing,WhatsApp account compromised. Click www.verify-whatsapp-login.com now.,Accounts
-smishing,Econet Alert: Your line will be disconnected in 24 hours. Verify now at http://econet-security-update.com,SMS Service
-benign,Church service starts at 9AM this Sunday in Bindura.,Lifestyle
-benign,Your package is ready for pickup at the local post office.,Lifestyle
-smishing,ZIMRA Tax Refund: Submit your banking details to receive payment.,Bank/Finance
-benign,Class timetable updated. Please check the university portal.,Lifestyle
-benign,Class timetable updated. Please check the university portal.,Lifestyle
-benign,ZESA: Your token purchase was successful.,Lifestyle
-benign,Your EcoCash transaction of USD 5.00 was completed successfully.,Bank/Finance
-benign,NetOne: Recharge successful. You received 500MB bonus data.,SMS Service
-benign,NetOne: Recharge successful. You received 500MB bonus data.,SMS Service
-smishing,Econet Alert: Your line will be disconnected in 24 hours. Verify now at http://econet-security-update.com,SMS Service
-benign,Your Mukuru transfer is ready for collection at the nearest branch.,Lifestyle
-smishing,Your Mukuru account was flagged. Verify identity now to avoid suspension.,Accounts
-smishing,ZIMRA Tax Refund: Submit your banking details to receive payment.,Bank/Finance
-benign,Econet: You have successfully purchased a WhatsApp bundle.,SMS Service
-smishing,Final warning: SIM registration incomplete. Update details immediately.,SMS Service
-smishing,EcoCash: Your wallet has been suspended. Confirm PIN immediately.,Bank/Finance
-smishing,ZIMRA Tax Refund: Submit your banking details to receive payment.,Bank/Finance
-benign,Happy birthday! Wishing you a wonderful year ahead.,Rewards
-smishing,WhatsApp account compromised. Click www.verify-whatsapp-login.com now.,Accounts
-benign,Church service starts at 9AM this Sunday in Bindura.,Lifestyle
-smishing,WhatsApp account compromised. Click www.verify-whatsapp-login.com now.,Accounts
-benign,Church service starts at 9AM this Sunday in Bindura.,Lifestyle
-benign,Class timetable updated. Please check the university portal.,Lifestyle
-benign,Your EcoCash transaction of USD 5.00 was completed successfully.,Bank/Finance
-smishing,You are selected for a loan approval. Send national ID and PIN.,Bank/Finance
-smishing,You are selected for a loan approval. Send national ID and PIN.,Bank/Finance
-smishing,Customer Service: Your account has unusual login attempts. Confirm password urgently.,Accounts
-smishing,Customer Service: Your account has unusual login attempts. Confirm password urgently.,Accounts
-benign,NetOne: Recharge successful. You received 500MB bonus data.,SMS Service
-smishing,You are selected for a loan approval. Send national ID and PIN.,Bank/Finance
-benign,ZESA: Your token purchase was successful.,Lifestyle
-smishing,Customer Service: Your account has unusual login attempts. Confirm password urgently.,Accounts
-smishing,WhatsApp account compromised. Click www.verify-whatsapp-login.com now.,Accounts
-benign,Church service starts at 9AM this Sunday in Bindura.,Lifestyle
-smishing,Your Mukuru account was flagged. Verify identity now to avoid suspension.,Accounts
-smishing,NetOne Promotion! Claim your free airtime reward here: bit.ly/free-netone,Rewards
-smishing,Your Mukuru account was flagged. Verify identity now to avoid suspension.,Accounts
-benign,Econet: You have successfully purchased a WhatsApp bundle.,SMS Service
-smishing,Final warning: SIM registration incomplete. Update details immediately.,SMS Service
-smishing,Congratulations! You won USD500 EcoCash reward. Claim now.,Bank/Finance
-smishing,EcoCash: Your wallet has been suspended. Confirm PIN immediately.,Bank/Finance
-smishing,Your Mukuru account was flagged. Verify identity now to avoid suspension.,Accounts
-benign,Your package is ready for pickup at the local post office.,Lifestyle
-smishing,Econet Alert: Your line will be disconnected in 24 hours. Verify now at http://econet-security-update.com,SMS Service
-benign,Church service starts at 9AM this Sunday in Bindura.,Lifestyle
-benign,Reminder: Your appointment at Bindura Hospital is tomorrow at 10AM.,Lifestyle
-benign,Your package is ready for pickup at the local post office.,Lifestyle
-smishing,Your Mukuru account was flagged. Verify identity now to avoid suspension.,Accounts
-smishing,EcoCash: Your wallet has been suspended. Confirm PIN immediately.,Bank/Finance
-benign,Class timetable updated. Please check the university portal.,Lifestyle
-benign,ZESA: Your token purchase was successful.,Lifestyle
-smishing,WhatsApp account compromised. Click www.verify-whatsapp-login.com now.,Accounts
-smishing,EcoCash: Your wallet has been suspended. Confirm PIN immediately.,Bank/Finance
-benign,Econet: You have successfully purchased a WhatsApp bundle.,SMS Service
-smishing,ZIMRA Tax Refund: Submit your banking details to receive payment.,Bank/Finance
-benign,Church service starts at 9AM this Sunday in Bindura.,Lifestyle
-benign,Your package is ready for pickup at the local post office.,Lifestyle
-benign,Your Mukuru transfer is ready for collection at the nearest branch.,Lifestyle
-smishing,Customer Service: Your account has unusual login attempts. Confirm password urgently.,Accounts
-smishing,Customer Service: Your account has unusual login attempts. Confirm password urgently.,Accounts
-benign,Church service starts at 9AM this Sunday in Bindura.,Lifestyle
-smishing,Final warning: SIM registration incomplete. Update details immediately.,SMS Service
-smishing,Your Mukuru account was flagged. Verify identity now to avoid suspension.,Accounts
-benign,ZESA: Your token purchase was successful.,Lifestyle
-smishing,You are selected for a loan approval. Send national ID and PIN.,Bank/Finance
-benign,Happy birthday! Wishing you a wonderful year ahead.,Rewards
-smishing,Customer Service: Your account has unusual login attempts. Confirm password urgently.,Accounts
-smishing,Customer Service: Your account has unusual login attempts. Confirm password urgently.,Accounts
-benign,Class timetable updated. Please check the university portal.,Lifestyle
-smishing,Final warning: SIM registration incomplete. Update details immediately.,SMS Service
-smishing,NetOne Promotion! Claim your free airtime reward here: bit.ly/free-netone,Rewards
-smishing,Econet Alert: Your line will be disconnected in 24 hours. Verify now at http://econet-security-update.com,SMS Service
-smishing,ZIMRA Tax Refund: Submit your banking details to receive payment.,Bank/Finance
-benign,ZESA: Your token purchase was successful.,Lifestyle
-smishing,Your Mukuru account was flagged. Verify identity now to avoid suspension.,Accounts
-benign,Econet: You have successfully purchased a WhatsApp bundle.,SMS Service
-benign,Reminder: Your appointment at Bindura Hospital is tomorrow at 10AM.,Lifestyle
-benign,Class timetable updated. Please check the university portal.,Lifestyle
-smishing,NetOne Promotion! Claim your free airtime reward here: bit.ly/free-netone,Rewards
-benign,Your EcoCash transaction of USD 5.00 was completed successfully.,Bank/Finance
-smishing,Econet Alert: Your line will be disconnected in 24 hours. Verify now at http://econet-security-update.com,SMS Service
-benign,Church service starts at 9AM this Sunday in Bindura.,Lifestyle
-benign,Econet: You have successfully purchased a WhatsApp bundle.,SMS Service
-smishing,Congratulations! You won USD500 EcoCash reward. Claim now.,Bank/Finance
-benign,Happy birthday! Wishing you a wonderful year ahead.,Rewards
-benign,Econet: You have successfully purchased a WhatsApp bundle.,SMS Service
-benign,Your package is ready for pickup at the local post office.,Lifestyle
-smishing,You are selected for a loan approval. Send national ID and PIN.,Bank/Finance
-benign,NetOne: Recharge successful. You received 500MB bonus data.,SMS Service
-smishing,You are selected for a loan approval. Send national ID and PIN.,Bank/Finance
-smishing,NetOne Promotion! Claim your free airtime reward here: bit.ly/free-netone,Rewards
-smishing,Your Mukuru account was flagged. Verify identity now to avoid suspension.,Accounts
-smishing,ZIMRA Tax Refund: Submit your banking details to receive payment.,Bank/Finance
-smishing,Econet Alert: Your line will be disconnected in 24 hours. Verify now at http://econet-security-update.com,SMS Service
-smishing,WhatsApp account compromised. Click www.verify-whatsapp-login.com now.,Accounts
-benign,Your package is ready for pickup at the local post office.,Lifestyle
-smishing,EcoCash: Your wallet has been suspended. Confirm PIN immediately.,Bank/Finance
-benign,ZESA: Your token purchase was successful.,Lifestyle
-smishing,Econet Alert: Your line will be disconnected in 24 hours. Verify now at http://econet-security-update.com,SMS Service
-benign,NetOne: Recharge successful. You received 500MB bonus data.,SMS Service
-benign,NetOne: Recharge successful. You received 500MB bonus data.,SMS Service
-benign,Your EcoCash transaction of USD 5.00 was completed successfully.,Bank/Finance
-smishing,WhatsApp account compromised. Click www.verify-whatsapp-login.com now.,Accounts
-smishing,Econet Alert: Your line will be disconnected in 24 hours. Verify now at http://econet-security-update.com,SMS Service
-smishing,Congratulations! You won USD500 EcoCash reward. Claim now.,Bank/Finance
-smishing,Your Mukuru account was flagged. Verify identity now to avoid suspension.,Accounts
-smishing,Your Mukuru account was flagged. Verify identity now to avoid suspension.,Accounts
-smishing,Econet Alert: Your line will be disconnected in 24 hours. Verify now at http://econet-security-update.com,SMS Service
-smishing,NetOne Promotion! Claim your free airtime reward here: bit.ly/free-netone,Rewards
-smishing,NetOne Promotion! Claim your free airtime reward here: bit.ly/free-netone,Rewards
-smishing,EcoCash: Your wallet has been suspended. Confirm PIN immediately.,Bank/Finance
-benign,Your Mukuru transfer is ready for collection at the nearest branch.,Lifestyle
-smishing,Your Mukuru account was flagged. Verify identity now to avoid suspension.,Accounts
-smishing,Econet Alert: Your line will be disconnected in 24 hours. Verify now at http://econet-security-update.com,SMS Service
-smishing,ZIMRA Tax Refund: Submit your banking details to receive payment.,Bank/Finance
-benign,NetOne: Recharge successful. You received 500MB bonus data.,SMS Service
-benign,ZESA: Your token purchase was successful.,Lifestyle
-smishing,Customer Service: Your account has unusual login attempts. Confirm password urgently.,Accounts
-smishing,ZIMRA Tax Refund: Submit your banking details to receive payment.,Bank/Finance
-smishing,You are selected for a loan approval. Send national ID and PIN.,Bank/Finance
-smishing,NetOne Promotion! Claim your free airtime reward here: bit.ly/free-netone,Rewards
-smishing,Final warning: SIM registration incomplete. Update details immediately.,SMS Service
-benign,Church service starts at 9AM this Sunday in Bindura.,Lifestyle
-smishing,ZIMRA Tax Refund: Submit your banking details to receive payment.,Bank/Finance
-benign,Reminder: Your appointment at Bindura Hospital is tomorrow at 10AM.,Lifestyle
-smishing,WhatsApp account compromised. Click www.verify-whatsapp-login.com now.,Accounts
-smishing,EcoCash: Your wallet has been suspended. Confirm PIN immediately.,Bank/Finance
-benign,Happy birthday! Wishing you a wonderful year ahead.,Rewards
-smishing,Econet Alert: Your line will be disconnected in 24 hours. Verify now at http://econet-security-update.com,SMS Service
-benign,Your EcoCash transaction of USD 5.00 was completed successfully.,Bank/Finance
-smishing,NetOne Promotion! Claim your free airtime reward here: bit.ly/free-netone,Rewards
-benign,NetOne: Recharge successful. You received 500MB bonus data.,SMS Service
-smishing,EcoCash: Your wallet has been suspended. Confirm PIN immediately.,Bank/Finance
-benign,Happy birthday! Wishing you a wonderful year ahead.,Rewards
-benign,ZESA: Your token purchase was successful.,Lifestyle
-benign,Your Mukuru transfer is ready for collection at the nearest branch.,Lifestyle
-benign,Happy birthday! Wishing you a wonderful year ahead.,Rewards
-smishing,You are selected for a loan approval. Send national ID and PIN.,Bank/Finance
-smishing,Final warning: SIM registration incomplete. Update details immediately.,SMS Service
-smishing,EcoCash: Your wallet has been suspended. Confirm PIN immediately.,Bank/Finance
-benign,Econet: You have successfully purchased a WhatsApp bundle.,SMS Service
-smishing,ZIMRA Tax Refund: Submit your banking details to receive payment.,Bank/Finance
-smishing,Your Mukuru account was flagged. Verify identity now to avoid suspension.,Accounts
-smishing,Your Mukuru account was flagged. Verify identity now to avoid suspension.,Accounts
-benign,NetOne: Recharge successful. You received 500MB bonus data.,SMS Service
-smishing,Your Mukuru account was flagged. Verify identity now to avoid suspension.,Accounts
-benign,ZESA: Your token purchase was successful.,Lifestyle
-smishing,You are selected for a loan approval. Send national ID and PIN.,Bank/Finance
-benign,Happy birthday! Wishing you a wonderful year ahead.,Rewards
-benign,Your Mukuru transfer is ready for collection at the nearest branch.,Lifestyle
-smishing,Econet Alert: Your line will be disconnected in 24 hours. Verify now at http://econet-security-update.com,SMS Service
-smishing,Your Mukuru account was flagged. Verify identity now to avoid suspension.,Accounts
-benign,Reminder: Your appointment at Bindura Hospital is tomorrow at 10AM.,Lifestyle
-smishing,Econet Alert: Your line will be disconnected in 24 hours. Verify now at http://econet-security-update.com,SMS Service
-benign,Reminder: Your appointment at Bindura Hospital is tomorrow at 10AM.,Lifestyle
-benign,Your package is ready for pickup at the local post office.,Lifestyle
-benign,Your Mukuru transfer is ready for collection at the nearest branch.,Lifestyle
-benign,Your Mukuru transfer is ready for collection at the nearest branch.,Lifestyle
-benign,Happy birthday! Wishing you a wonderful year ahead.,Rewards
-benign,NetOne: Recharge successful. You received 500MB bonus data.,SMS Service
-benign,NetOne: Recharge successful. You received 500MB bonus data.,SMS Service
-smishing,Your Mukuru account was flagged. Verify identity now to avoid suspension.,Accounts
-benign,NetOne: Recharge successful. You received 500MB bonus data.,SMS Service
-benign,Reminder: Your appointment at Bindura Hospital is tomorrow at 10AM.,Lifestyle
-benign,Econet: You have successfully purchased a WhatsApp bundle.,SMS Service
-benign,Church service starts at 9AM this Sunday in Bindura.,Lifestyle
-benign,Your EcoCash transaction of USD 5.00 was completed successfully.,Bank/Finance
-benign,ZESA: Your token purchase was successful.,Lifestyle
-benign,Class timetable updated. Please check the university portal.,Lifestyle
-smishing,Customer Service: Your account has unusual login attempts. Confirm password urgently.,Accounts
-smishing,Customer Service: Your account has unusual login attempts. Confirm password urgently.,Accounts
-benign,Econet: You have successfully purchased a WhatsApp bundle.,SMS Service
-smishing,ZIMRA Tax Refund: Submit your banking details to receive payment.,Bank/Finance
-benign,Church service starts at 9AM this Sunday in Bindura.,Lifestyle
-benign,Your package is ready for pickup at the local post office.,Lifestyle
-benign,Reminder: Your appointment at Bindura Hospital is tomorrow at 10AM.,Lifestyle
-smishing,Final warning: SIM registration incomplete. Update details immediately.,SMS Service
-smishing,EcoCash: Your wallet has been suspended. Confirm PIN immediately.,Bank/Finance
-smishing,Congratulations! You won USD500 EcoCash reward. Claim now.,Bank/Finance
-benign,Econet: You have successfully purchased a WhatsApp bundle.,SMS Service
-smishing,EcoCash: Your wallet has been suspended. Confirm PIN immediately.,Bank/Finance
-smishing,Congratulations! You won USD500 EcoCash reward. Claim now.,Bank/Finance
-benign,ZESA: Your token purchase was successful.,Lifestyle
-smishing,Your Mukuru account was flagged. Verify identity now to avoid suspension.,Accounts
-smishing,Final warning: SIM registration incomplete. Update details immediately.,SMS Service
-benign,Your Mukuru transfer is ready for collection at the nearest branch.,Lifestyle
-smishing,NetOne Promotion! Claim your free airtime reward here: bit.ly/free-netone,Rewards
-benign,ZESA: Your token purchase was successful.,Lifestyle
-smishing,Congratulations! You won USD500 EcoCash reward. Claim now.,Bank/Finance
-smishing,Your Mukuru account was flagged. Verify identity now to avoid suspension.,Accounts
-benign,Your package is ready for pickup at the local post office.,Lifestyle
-benign,Class timetable updated. Please check the university portal.,Lifestyle
-benign,Class timetable updated. Please check the university portal.,Lifestyle
-benign,Church service starts at 9AM this Sunday in Bindura.,Lifestyle
-smishing,Congratulations! You won USD500 EcoCash reward. Claim now.,Bank/Finance
-smishing,Your Mukuru account was flagged. Verify identity now to avoid suspension.,Accounts
-smishing,Econet Alert: Your line will be disconnected in 24 hours. Verify now at http://econet-security-update.com,SMS Service
-benign,Church service starts at 9AM this Sunday in Bindura.,Lifestyle
-benign,Class timetable updated. Please check the university portal.,Lifestyle
-smishing,EcoCash: Your wallet has been suspended. Confirm PIN immediately.,Bank/Finance
-smishing,WhatsApp account compromised. Click www.verify-whatsapp-login.com now.,Accounts
-smishing,WhatsApp account compromised. Click www.verify-whatsapp-login.com now.,Accounts
-benign,Your EcoCash transaction of USD 5.00 was completed successfully.,Bank/Finance
-smishing,Final warning: SIM registration incomplete. Update details immediately.,SMS Service
-benign,Your Mukuru transfer is ready for collection at the nearest branch.,Lifestyle
-benign,NetOne: Recharge successful. You received 500MB bonus data.,SMS Service
-benign,NetOne: Recharge successful. You received 500MB bonus data.,SMS Service
-benign,Econet: You have successfully purchased a WhatsApp bundle.,SMS Service
-benign,Your package is ready for pickup at the local post office.,Lifestyle
-smishing,NetOne Promotion! Claim your free airtime reward here: bit.ly/free-netone,Rewards
-benign,ZESA: Your token purchase was successful.,Lifestyle
-benign,NetOne: Recharge successful. You received 500MB bonus data.,SMS Service
-smishing,NetOne Promotion! Claim your free airtime reward here: bit.ly/free-netone,Rewards
-benign,Class timetable updated. Please check the university portal.,Lifestyle
-smishing,Final warning: SIM registration incomplete. Update details immediately.,SMS Service
-benign,Your Mukuru transfer is ready for collection at the nearest branch.,Lifestyle
-benign,Your Mukuru transfer is ready for collection at the nearest branch.,Lifestyle
-benign,Happy birthday! Wishing you a wonderful year ahead.,Rewards
-smishing,Your Mukuru account was flagged. Verify identity now to avoid suspension.,Accounts
-smishing,Customer Service: Your account has unusual login attempts. Confirm password urgently.,Accounts
-benign,Church service starts at 9AM this Sunday in Bindura.,Lifestyle
-smishing,NetOne Promotion! Claim your free airtime reward here: bit.ly/free-netone,Rewards
-benign,Church service starts at 9AM this Sunday in Bindura.,Lifestyle
-smishing,ZIMRA Tax Refund: Submit your banking details to receive payment.,Bank/Finance
-benign,Your package is ready for pickup at the local post office.,Lifestyle
-smishing,Final warning: SIM registration incomplete. Update details immediately.,SMS Service
-smishing,Congratulations! You won USD500 EcoCash reward. Claim now.,Bank/Finance
-smishing,You are selected for a loan approval. Send national ID and PIN.,Bank/Finance
-benign,Happy birthday! Wishing you a wonderful year ahead.,Rewards
-benign,NetOne: Recharge successful. You received 500MB bonus data.,SMS Service
-smishing,ZIMRA Tax Refund: Submit your banking details to receive payment.,Bank/Finance
-benign,Your EcoCash transaction of USD 5.00 was completed successfully.,Bank/Finance
-smishing,Customer Service: Your account has unusual login attempts. Confirm password urgently.,Accounts
-smishing,EcoCash: Your wallet has been suspended. Confirm PIN immediately.,Bank/Finance
-benign,Reminder: Your appointment at Bindura Hospital is tomorrow at 10AM.,Lifestyle
-benign,Class timetable updated. Please check the university portal.,Lifestyle
-benign,Your EcoCash transaction of USD 5.00 was completed successfully.,Bank/Finance
-benign,Your package is ready for pickup at the local post office.,Lifestyle
-smishing,ZIMRA Tax Refund: Submit your banking details to receive payment.,Bank/Finance
-smishing,Congratulations! You won USD500 EcoCash reward. Claim now.,Bank/Finance
-benign,NetOne: Recharge successful. You received 500MB bonus data.,SMS Service
-benign,Your package is ready for pickup at the local post office.,Lifestyle
-benign,Reminder: Your appointment at Bindura Hospital is tomorrow at 10AM.,Lifestyle
-smishing,Your Mukuru account was flagged. Verify identity now to avoid suspension.,Accounts
-benign,ZESA: Your token purchase was successful.,Lifestyle
-benign,Econet: You have successfully purchased a WhatsApp bundle.,SMS Service
-smishing,NetOne Promotion! Claim your free airtime reward here: bit.ly/free-netone,Rewards
-smishing,Econet Alert: Your line will be disconnected in 24 hours. Verify now at http://econet-security-update.com,SMS Service
-smishing,Congratulations! You won USD500 EcoCash reward. Claim now.,Bank/Finance
-benign,Happy birthday! Wishing you a wonderful year ahead.,Rewards
-benign,NetOne: Recharge successful. You received 500MB bonus data.,SMS Service
-benign,Your Mukuru transfer is ready for collection at the nearest branch.,Lifestyle
-smishing,Customer Service: Your account has unusual login attempts. Confirm password urgently.,Accounts
-smishing,You are selected for a loan approval. Send national ID and PIN.,Bank/Finance
-benign,Reminder: Your appointment at Bindura Hospital is tomorrow at 10AM.,Lifestyle
-smishing,Final warning: SIM registration incomplete. Update details immediately.,SMS Service
-benign,ZESA: Your token purchase was successful.,Lifestyle
-smishing,EcoCash: Your wallet has been suspended. Confirm PIN immediately.,Bank/Finance
-benign,Your Mukuru transfer is ready for collection at the nearest branch.,Lifestyle
-benign,NetOne: Recharge successful. You received 500MB bonus data.,SMS Service
-benign,Happy birthday! Wishing you a wonderful year ahead.,Rewards
-smishing,Congratulations! You won USD500 EcoCash reward. Claim now.,Bank/Finance
-smishing,You are selected for a loan approval. Send national ID and PIN.,Bank/Finance
-smishing,Your Mukuru account was flagged. Verify identity now to avoid suspension.,Accounts
-smishing,You are selected for a loan approval. Send national ID and PIN.,Bank/Finance
-benign,Your Mukuru transfer is ready for collection at the nearest branch.,Lifestyle
-smishing,Final warning: SIM registration incomplete. Update details immediately.,SMS Service
-smishing,Customer Service: Your account has unusual login attempts. Confirm password urgently.,Accounts
-benign,Reminder: Your appointment at Bindura Hospital is tomorrow at 10AM.,Lifestyle
-benign,Econet: You have successfully purchased a WhatsApp bundle.,SMS Service
-smishing,NetOne Promotion! Claim your free airtime reward here: bit.ly/free-netone,Rewards
-smishing,Your Mukuru account was flagged. Verify identity now to avoid suspension.,Accounts
-benign,Your EcoCash transaction of USD 5.00 was completed successfully.,Bank/Finance
-benign,NetOne: Recharge successful. You received 500MB bonus data.,SMS Service
-smishing,You are selected for a loan approval. Send national ID and PIN.,Bank/Finance
-smishing,NetOne Promotion! Claim your free airtime reward here: bit.ly/free-netone,Rewards
-smishing,NetOne Promotion! Claim your free airtime reward here: bit.ly/free-netone,Rewards
-smishing,Customer Service: Your account has unusual login attempts. Confirm password urgently.,Accounts
-benign,Church service starts at 9AM this Sunday in Bindura.,Lifestyle
-smishing,NetOne Promotion! Claim your free airtime reward here: bit.ly/free-netone,Rewards
-benign,Class timetable updated. Please check the university portal.,Lifestyle
-smishing,Your Mukuru account was flagged. Verify identity now to avoid suspension.,Accounts
-smishing,NetOne Promotion! Claim your free airtime reward here: bit.ly/free-netone,Rewards
-benign,ZESA: Your token purchase was successful.,Lifestyle
-smishing,Final warning: SIM registration incomplete. Update details immediately.,SMS Service
-smishing,NetOne Promotion! Claim your free airtime reward here: bit.ly/free-netone,Rewards
-benign,Your EcoCash transaction of USD 5.00 was completed successfully.,Bank/Finance
-benign,Reminder: Your appointment at Bindura Hospital is tomorrow at 10AM.,Lifestyle
-smishing,NetOne Promotion! Claim your free airtime reward here: bit.ly/free-netone,Rewards
-smishing,EcoCash: Your wallet has been suspended. Confirm PIN immediately.,Bank/Finance
-benign,Your package is ready for pickup at the local post office.,Lifestyle
-benign,Happy birthday! Wishing you a wonderful year ahead.,Rewards
-benign,NetOne: Recharge successful. You received 500MB bonus data.,SMS Service
-smishing,NetOne Promotion! Claim your free airtime reward here: bit.ly/free-netone,Rewards
-smishing,Final warning: SIM registration incomplete. Update details immediately.,SMS Service
-smishing,You are selected for a loan approval. Send national ID and PIN.,Bank/Finance
-smishing,EcoCash: Your wallet has been suspended. Confirm PIN immediately.,Bank/Finance
-smishing,ZIMRA Tax Refund: Submit your banking details to receive payment.,Bank/Finance
-benign,NetOne: Recharge successful. You received 500MB bonus data.,SMS Service
-benign,Your EcoCash transaction of USD 5.00 was completed successfully.,Bank/Finance
-smishing,Final warning: SIM registration incomplete. Update details immediately.,SMS Service
-benign,Reminder: Your appointment at Bindura Hospital is tomorrow at 10AM.,Lifestyle
-smishing,Final warning: SIM registration incomplete. Update details immediately.,SMS Service
-smishing,You are selected for a loan approval. Send national ID and PIN.,Bank/Finance
-benign,Your EcoCash transaction of USD 5.00 was completed successfully.,Bank/Finance
-smishing,Final warning: SIM registration incomplete. Update details immediately.,SMS Service
-benign,Class timetable updated. Please check the university portal.,Lifestyle
-benign,Happy birthday! Wishing you a wonderful year ahead.,Rewards
-benign,Your package is ready for pickup at the local post office.,Lifestyle
-benign,Your Mukuru transfer is ready for collection at the nearest branch.,Lifestyle
-benign,Your package is ready for pickup at the local post office.,Lifestyle
-smishing,WhatsApp account compromised. Click www.verify-whatsapp-login.com now.,Accounts
-benign,ZESA: Your token purchase was successful.,Lifestyle
+smishing,You have received a tax refund. Submit banking details to receive payment.,"fear, urgency"
+smishing,You have received a tax refund. Submit banking details to receive payment.,"impersonation, credential_request"
+benign,Happy birthday! Wishing you a wonderful day ahead.,banking_notification
+smishing,Your SIM card will be blocked within 24 hours unless verified.,"obfuscation, malicious_pattern"
+smishing,Act now to avoid account suspension.,"impersonation, credential_request"
+smishing,Limited-time government grant available. Register now.,"impersonation, credential_request"
+smishing,Act now to avoid account suspension.,"financial_lure, persuasion"
+benign,Your data bundle purchase was successful.,otp_notification
+benign,Exam timetable has been released.,otp_notification
+benign,Electricity outage scheduled for tonight from 8 PM.,otp_notification
+benign,Your data bundle purchase was successful.,personal_message
+benign,Airtime recharge successful.,personal_message
+benign,Airtime recharge successful.,otp_notification
+smishing,Your NMB account requires immediate verification. Click here: http://account-update-alert.com,"urgency, malicious_url"
+benign,Airtime recharge successful.,personal_message
+smishing,We noticed unauthorized activity in your account. Login immediately.,"fear, urgency"
+smishing,Final warning: Your mobile banking access will be terminated today.,"fear, urgency"
+benign,Please remember our meeting tomorrow.,reminder
+benign,Exam timetable has been released.,reminder
+smishing,Your package delivery failed. Confirm address here: http://account-update-alert.com,"urgency, malicious_url"
+smishing,Final warning: Your mobile banking access will be terminated today.,"obfuscation, malicious_pattern"
+smishing,"Dear customer, update your Mukuru wallet PIN immediately at http://wallet-authentication.net","urgency, malicious_url"
+benign,Your OTP for BancABC banking is 842394. Do not share this code.,personal_message
+smishing,Your package delivery failed. Confirm address here: http://account-update-alert.com,"impersonation, credential_request"
+smishing,Final warning: Your mobile banking access will be terminated today.,"obfuscation, malicious_pattern"
+smishing,Act now to avoid account suspension.,"impersonation, credential_request"
+smishing,Your WhatsApp account has been compromised. Verify identity immediately.,"obfuscation, malicious_pattern"
+smishing,Your WhatsApp account has been compromised. Verify identity immediately.,"obfuscation, malicious_pattern"
+smishing,Act now to avoid account suspension.,"impersonation, credential_request"
+benign,Your data bundle purchase was successful.,banking_notification
+benign,Your data bundle purchase was successful.,reminder
+benign,Your OTP for BancABC banking is 584209. Do not share this code.,otp_notification
+benign,Happy birthday! Wishing you a wonderful day ahead.,banking_notification
+benign,Reminder: Your appointment is scheduled for tomorrow at 2 PM.,reminder
+benign,Lunch was great today thank you.,reminder
+benign,Your data bundle purchase was successful.,personal_message
+benign,Thank you for shopping with OK Zimbabwe.,personal_message
+smishing,URGENT: Your Mukuru account has been suspended. Verify now at http://account-update-alert.com,"financial_lure, persuasion"
+benign,Airtime recharge successful.,personal_message
+benign,Your ZESA token purchase was successful.,reminder
+benign,Reminder: Your appointment is scheduled for tomorrow at 9 AM.,transactional_sms
+smishing,Win a free iPhone today by completing verification.,"impersonation, credential_request"
+benign,Your OTP for CBZ banking is 703763. Do not share this code.,otp_notification
+benign,Thank you for shopping with OK Zimbabwe.,banking_notification
+smishing,Congratulations! You have won USD500. Claim your reward now.,"financial_lure, persuasion"
+benign,Your ZESA token purchase was successful.,otp_notification
+smishing,Congratulations! You have won USD50. Claim your reward now.,"impersonation, credential_request"
+smishing,Limited-time government grant available. Register now.,"obfuscation, malicious_pattern"
+benign,Your parcel is ready for collection at Borrowdale.,personal_message
+benign,Lunch was great today thank you.,transactional_sms
+benign,Lunch was great today thank you.,banking_notification
+smishing,Your SIM card will be blocked within 24 hours unless verified.,"fear, urgency"
+smishing,Final warning: Your mobile banking access will be terminated today.,"urgency, malicious_url"
+smishing,Act now to avoid account suspension.,"obfuscation, malicious_pattern"
+benign,Your account balance is USD50.,reminder
+benign,Reminder: Your appointment is scheduled for tomorrow at 2 PM.,personal_message
+benign,Can you send me the assignment notes later?,reminder
+smishing,URGENT: Your PayNow account has been suspended. Verify now at http://secure-login-update.com,"impersonation, credential_request"
+smishing,Your package delivery failed. Confirm address here: http://wallet-authentication.net,"fear, urgency"
+smishing,Congratulations! You have won USD250. Claim your reward now.,"fear, urgency"
+smishing,Limited-time government grant available. Register now.,"financial_lure, persuasion"
+smishing,Your WhatsApp account has been compromised. Verify identity immediately.,"fear, urgency"
+benign,Your account balance is USD100.,otp_notification
+smishing,Limited-time government grant available. Register now.,"obfuscation, malicious_pattern"
+benign,Can you send me the assignment notes later?,banking_notification
+benign,EcoCash transfer of USD250 completed successfully.,otp_notification
+benign,Thank you for shopping with OK Zimbabwe.,reminder
+smishing,Your package delivery failed. Confirm address here: http://wallet-authentication.net,"fear, urgency"
+smishing,Congratulations! You have won USD500. Claim your reward now.,"urgency, malicious_url"
+benign,Your OTP for NMB banking is 889814. Do not share this code.,otp_notification
+smishing,We noticed unauthorized activity in your account. Login immediately.,"fear, urgency"
+smishing,Suspicious login detected on your account. Secure it now.,"fear, urgency"
+benign,Exam timetable has been released.,banking_notification
+smishing,We noticed unauthorized activity in your account. Login immediately.,"obfuscation, malicious_pattern"
+smishing,Your CBZ account requires immediate verification. Click here: http://verify-account-security.com,"financial_lure, persuasion"
+smishing,Congratulations! You have won USD250. Claim your reward now.,"fear, urgency"
+smishing,Your NMB account requires immediate verification. Click here: http://wallet-authentication.net,"obfuscation, malicious_pattern"
+benign,Your account balance is USD500.,personal_message
+benign,Airtime recharge successful.,personal_message
+smishing,You have received a tax refund. Submit banking details to receive payment.,"urgency, malicious_url"
+smishing,Your package delivery failed. Confirm address here: http://account-update-alert.com,"financial_lure, persuasion"
+benign,Your parcel is ready for collection at Avondale.,reminder
+benign,Thank you for shopping with OK Zimbabwe.,transactional_sms
+benign,Electricity outage scheduled for tonight from 8 PM.,transactional_sms
+smishing,Your SIM card will be blocked within 24 hours unless verified.,"obfuscation, malicious_pattern"
+benign,Meeting moved to 2 PM today.,reminder
+benign,Reminder: Your appointment is scheduled for tomorrow at 10 AM.,banking_notification
+smishing,Your SIM card will be blocked within 24 hours unless verified.,"impersonation, credential_request"
+benign,Exam timetable has been released.,reminder
+benign,Can you send me the assignment notes later?,personal_message
+benign,Airtime recharge successful.,otp_notification
+smishing,Act now to avoid account suspension.,"impersonation, credential_request"
+benign,PayNow transfer of USD50 completed successfully.,banking_notification
+smishing,Congratulations! You have won USD100. Claim your reward now.,"fear, urgency"
+benign,The bus will arrive in 10 minutes.,reminder
+smishing,Your WhatsApp account has been compromised. Verify identity immediately.,"fear, urgency"
+smishing,You have received a tax refund. Submit banking details to receive payment.,"urgency, malicious_url"
+benign,Electricity outage scheduled for tonight from 8 PM.,otp_notification
+smishing,Act now to avoid account suspension.,"obfuscation, malicious_pattern"
+benign,Airtime recharge successful.,transactional_sms
+benign,Exam timetable has been released.,personal_message
+smishing,Your CBZ account requires immediate verification. Click here: http://secure-login-update.com,"financial_lure, persuasion"
+smishing,Your WhatsApp account has been compromised. Verify identity immediately.,"obfuscation, malicious_pattern"
+benign,Meeting moved to 4 PM today.,otp_notification
+benign,Your data bundle purchase was successful.,banking_notification
+benign,Your parcel is ready for collection at Avondale.,reminder
+smishing,Your CBZ account requires immediate verification. Click here: http://account-update-alert.com,"urgency, malicious_url"
+smishing,Cl1ck h3re to v3rify your acc0unt immediately.,"urgency, malicious_url"
+benign,Airtime recharge successful.,banking_notification
+benign,Exam timetable has been released.,personal_message
+benign,Your parcel is ready for collection at CBD Harare.,banking_notification
+smishing,"Dear customer, update your Mukuru wallet PIN immediately at http://secure-login-update.com","obfuscation, malicious_pattern"
+benign,Electricity outage scheduled for tonight from 8 PM.,reminder
+smishing,URGENT: Your PayNow account has been suspended. Verify now at http://wallet-authentication.net,"urgency, malicious_url"
+benign,The bus will arrive in 10 minutes.,personal_message
+benign,Please remember our meeting tomorrow.,transactional_sms
+benign,Your ZESA token purchase was successful.,banking_notification
+benign,Please remember our meeting tomorrow.,otp_notification
+smishing,Congratulations! You have won USD250. Claim your reward now.,"fear, urgency"
+smishing,Your SIM card will be blocked within 24 hours unless verified.,"obfuscation, malicious_pattern"
+benign,The bus will arrive in 10 minutes.,transactional_sms
+benign,Your account balance is USD50.,transactional_sms
+benign,Your OTP for Steward Bank banking is 211515. Do not share this code.,otp_notification
+smishing,Your package delivery failed. Confirm address here: http://verify-account-security.com,"financial_lure, persuasion"
+smishing,You have received a tax refund. Submit banking details to receive payment.,"urgency, malicious_url"
+smishing,Suspicious login detected on your account. Secure it now.,"urgency, malicious_url"
+smishing,Cl1ck h3re to v3rify your acc0unt immediately.,"obfuscation, malicious_pattern"
+smishing,Final warning: Your mobile banking access will be terminated today.,"impersonation, credential_request"
+smishing,Your SIM card will be blocked within 24 hours unless verified.,"fear, urgency"
+smishing,"Dear customer, update your OneMoney wallet PIN immediately at http://verify-account-security.com","impersonation, credential_request"
+smishing,Your SIM card will be blocked within 24 hours unless verified.,"urgency, malicious_url"
+benign,Happy birthday! Wishing you a wonderful day ahead.,personal_message
+benign,Electricity outage scheduled for tonight from 8 PM.,personal_message
+benign,Happy birthday! Wishing you a wonderful day ahead.,otp_notification
+benign,Can you send me the assignment notes later?,banking_notification
+smishing,Your WhatsApp account has been compromised. Verify identity immediately.,"urgency, malicious_url"
+benign,Your parcel is ready for collection at Avondale.,banking_notification
+benign,The bus will arrive in 10 minutes.,otp_notification
+smishing,"Dear customer, update your PayNow wallet PIN immediately at http://wallet-authentication.net","urgency, malicious_url"
+benign,Reminder: Your appointment is scheduled for tomorrow at 2 PM.,transactional_sms
+smishing,Limited-time government grant available. Register now.,"obfuscation, malicious_pattern"
+benign,Your ZESA token purchase was successful.,banking_notification
+benign,Reminder: Your appointment is scheduled for tomorrow at 10 AM.,personal_message
+benign,Happy birthday! Wishing you a wonderful day ahead.,reminder
+benign,The bus will arrive in 10 minutes.,personal_message
+smishing,Your package delivery failed. Confirm address here: http://verify-account-security.com,"impersonation, credential_request"
+smishing,Your SIM card will be blocked within 24 hours unless verified.,"impersonation, credential_request"
+smishing,Your WhatsApp account has been compromised. Verify identity immediately.,"financial_lure, persuasion"
+smishing,Win a free iPhone today by completing verification.,"urgency, malicious_url"
+smishing,Your SIM card will be blocked within 24 hours unless verified.,"obfuscation, malicious_pattern"
+smishing,Final warning: Your mobile banking access will be terminated today.,"urgency, malicious_url"
+benign,Please remember our meeting tomorrow.,personal_message
+smishing,Congratulations! You have won USD250. Claim your reward now.,"obfuscation, malicious_pattern"
+smishing,Suspicious login detected on your account. Secure it now.,"fear, urgency"
+benign,Your ZESA token purchase was successful.,transactional_sms
+smishing,URGENT: Your EcoCash account has been suspended. Verify now at http://verify-account-security.com,"impersonation, credential_request"
+smishing,Final warning: Your mobile banking access will be terminated today.,"urgency, malicious_url"
+benign,Meeting moved to 2 PM today.,banking_notification
+benign,Exam timetable has been released.,personal_message
+smishing,Final warning: Your mobile banking access will be terminated today.,"urgency, malicious_url"
+smishing,Your CBZ account requires immediate verification. Click here: http://verify-account-security.com,"fear, urgency"
+smishing,Your SIM card will be blocked within 24 hours unless verified.,"obfuscation, malicious_pattern"
+smishing,Your package delivery failed. Confirm address here: http://wallet-authentication.net,"impersonation, credential_request"
+benign,Meeting moved to 10 AM today.,reminder
+smishing,We noticed unauthorized activity in your account. Login immediately.,"fear, urgency"
+benign,PayNow transfer of USD100 completed successfully.,reminder
+benign,Reminder: Your appointment is scheduled for tomorrow at 9 AM.,personal_message
+benign,Can you send me the assignment notes later?,reminder
+benign,Meeting moved to 4 PM today.,otp_notification
+benign,Airtime recharge successful.,banking_notification
+smishing,Cl1ck h3re to v3rify your acc0unt immediately.,"obfuscation, malicious_pattern"
+benign,EcoCash transfer of USD50 completed successfully.,personal_message
+smishing,Your SIM card will be blocked within 24 hours unless verified.,"urgency, malicious_url"
+smishing,Your WhatsApp account has been compromised. Verify identity immediately.,"fear, urgency"
+benign,Airtime recharge successful.,banking_notification
+benign,Your ZESA token purchase was successful.,otp_notification
+benign,Thank you for shopping with Bon Marche.,reminder
+smishing,Your Steward Bank account requires immediate verification. Click here: http://secure-login-update.com,"obfuscation, malicious_pattern"
+benign,Please remember our meeting tomorrow.,otp_notification
+benign,Your OTP for Steward Bank banking is 699510. Do not share this code.,banking_notification
+benign,Happy birthday! Wishing you a wonderful day ahead.,banking_notification
+smishing,Act now to avoid account suspension.,"financial_lure, persuasion"
+smishing,Your package delivery failed. Confirm address here: http://verify-account-security.com,"financial_lure, persuasion"
+benign,Mukuru transfer of USD500 completed successfully.,banking_notification
+benign,Meeting moved to 10 AM today.,otp_notification
+smishing,Your package delivery failed. Confirm address here: http://wallet-authentication.net,"fear, urgency"
+smishing,Win a free iPhone today by completing verification.,"urgency, malicious_url"
+benign,Your data bundle purchase was successful.,transactional_sms
+benign,Lunch was great today thank you.,personal_message
+benign,Electricity outage scheduled for tonight from 8 PM.,otp_notification
+benign,Thank you for shopping with TM Pick n Pay.,banking_notification
+benign,Electricity outage scheduled for tonight from 8 PM.,banking_notification
+benign,Electricity outage scheduled for tonight from 8 PM.,reminder
+benign,Electricity outage scheduled for tonight from 8 PM.,otp_notification
+benign,Airtime recharge successful.,transactional_sms
+smishing,We noticed unauthorized activity in your account. Login immediately.,"obfuscation, malicious_pattern"
+benign,Exam timetable has been released.,personal_message
+smishing,Your BancABC account requires immediate verification. Click here: http://secure-login-update.com,"urgency, malicious_url"
+benign,Your OTP for NMB banking is 825343. Do not share this code.,personal_message
+smishing,Congratulations! You have won USD50. Claim your reward now.,"obfuscation, malicious_pattern"
+smishing,Your WhatsApp account has been compromised. Verify identity immediately.,"fear, urgency"
+benign,Exam timetable has been released.,banking_notification
+benign,The bus will arrive in 10 minutes.,reminder
+smishing,Act now to avoid account suspension.,"financial_lure, persuasion"
+benign,Your OTP for NMB banking is 170714. Do not share this code.,transactional_sms
+smishing,Win a free iPhone today by completing verification.,"fear, urgency"
+smishing,Cl1ck h3re to v3rify your acc0unt immediately.,"obfuscation, malicious_pattern"
+smishing,Your SIM card will be blocked within 24 hours unless verified.,"obfuscation, malicious_pattern"
+smishing,We noticed unauthorized activity in your account. Login immediately.,"financial_lure, persuasion"
+smishing,Your SIM card will be blocked within 24 hours unless verified.,"financial_lure, persuasion"
+smishing,"Dear customer, update your OneMoney wallet PIN immediately at http://account-update-alert.com","fear, urgency"
+benign,Your account balance is USD250.,reminder
+smishing,Act now to avoid account suspension.,"obfuscation, malicious_pattern"
+benign,Airtime recharge successful.,otp_notification
+smishing,Final warning: Your mobile banking access will be terminated today.,"urgency, malicious_url"
+benign,Please remember our meeting tomorrow.,transactional_sms
+benign,Thank you for shopping with OK Zimbabwe.,reminder
+smishing,Congratulations! You have won USD50. Claim your reward now.,"urgency, malicious_url"
+benign,Happy birthday! Wishing you a wonderful day ahead.,reminder
+smishing,Congratulations! You have won USD250. Claim your reward now.,"fear, urgency"
+smishing,Your SIM card will be blocked within 24 hours unless verified.,"impersonation, credential_request"
+smishing,"Dear customer, update your EcoCash wallet PIN immediately at http://wallet-authentication.net","obfuscation, malicious_pattern"
+smishing,We noticed unauthorized activity in your account. Login immediately.,"financial_lure, persuasion"
+benign,Please remember our meeting tomorrow.,personal_message
+smishing,Limited-time government grant available. Register now.,"impersonation, credential_request"
+smishing,Act now to avoid account suspension.,"impersonation, credential_request"
+benign,PayNow transfer of USD500 completed successfully.,otp_notification
+smishing,Suspicious login detected on your account. Secure it now.,"urgency, malicious_url"
+benign,Your data bundle purchase was successful.,otp_notification
+smishing,Your WhatsApp account has been compromised. Verify identity immediately.,"financial_lure, persuasion"
+smishing,Your SIM card will be blocked within 24 hours unless verified.,"obfuscation, malicious_pattern"
+smishing,Act now to avoid account suspension.,"obfuscation, malicious_pattern"
+benign,Please remember our meeting tomorrow.,personal_message
+smishing,Cl1ck h3re to v3rify your acc0unt immediately.,"obfuscation, malicious_pattern"
+smishing,Your SIM card will be blocked within 24 hours unless verified.,"urgency, malicious_url"
+benign,Thank you for shopping with OK Zimbabwe.,reminder
+smishing,Final warning: Your mobile banking access will be terminated today.,"fear, urgency"
+smishing,Your package delivery failed. Confirm address here: http://account-update-alert.com,"obfuscation, malicious_pattern"
+benign,Airtime recharge successful.,banking_notification
+benign,Please remember our meeting tomorrow.,reminder
+benign,Thank you for shopping with Bon Marche.,reminder
+benign,The bus will arrive in 10 minutes.,otp_notification
+smishing,"Dear customer, update your OneMoney wallet PIN immediately at http://account-update-alert.com","obfuscation, malicious_pattern"
+smishing,Win a free iPhone today by completing verification.,"urgency, malicious_url"
+benign,Reminder: Your appointment is scheduled for tomorrow at 9 AM.,banking_notification
+benign,Thank you for shopping with Bon Marche.,personal_message
+smishing,Limited-time government grant available. Register now.,"urgency, malicious_url"
+benign,Your OTP for Steward Bank banking is 590266. Do not share this code.,transactional_sms
+smishing,Your WhatsApp account has been compromised. Verify identity immediately.,"urgency, malicious_url"
+benign,Your account balance is USD500.,otp_notification
+benign,Your parcel is ready for collection at CBD Harare.,transactional_sms
+benign,Your ZESA token purchase was successful.,transactional_sms
+smishing,Win a free iPhone today by completing verification.,"impersonation, credential_request"
+benign,Your OTP for Steward Bank banking is 728655. Do not share this code.,reminder
+benign,Your ZESA token purchase was successful.,reminder
+benign,Your ZESA token purchase was successful.,transactional_sms
+benign,Thank you for shopping with Bon Marche.,personal_message
+benign,Can you send me the assignment notes later?,banking_notification
+smishing,Your WhatsApp account has been compromised. Verify identity immediately.,"fear, urgency"
+benign,Thank you for shopping with TM Pick n Pay.,transactional_sms
+smishing,Your WhatsApp account has been compromised. Verify identity immediately.,"financial_lure, persuasion"
+smishing,Your Steward Bank account requires immediate verification. Click here: http://wallet-authentication.net,"obfuscation, malicious_pattern"
+smishing,Your WhatsApp account has been compromised. Verify identity immediately.,"fear, urgency"
+benign,Your data bundle purchase was successful.,personal_message
+smishing,Final warning: Your mobile banking access will be terminated today.,"financial_lure, persuasion"
+smishing,Suspicious login detected on your account. Secure it now.,"urgency, malicious_url"
+smishing,Limited-time government grant available. Register now.,"financial_lure, persuasion"
+benign,Airtime recharge successful.,personal_message
+benign,Your parcel is ready for collection at CBD Harare.,otp_notification
+benign,Your parcel is ready for collection at Avondale.,otp_notification
+benign,Can you send me the assignment notes later?,personal_message
+benign,Can you send me the assignment notes later?,otp_notification
+smishing,Suspicious login detected on your account. Secure it now.,"obfuscation, malicious_pattern"
+benign,Reminder: Your appointment is scheduled for tomorrow at 4 PM.,reminder
+smishing,Your package delivery failed. Confirm address here: http://wallet-authentication.net,"financial_lure, persuasion"
+benign,Airtime recharge successful.,banking_notification
+smishing,You have received a tax refund. Submit banking details to receive payment.,"fear, urgency"
+smishing,Your package delivery failed. Confirm address here: http://account-update-alert.com,"obfuscation, malicious_pattern"
+smishing,We noticed unauthorized activity in your account. Login immediately.,"obfuscation, malicious_pattern"
+benign,Reminder: Your appointment is scheduled for tomorrow at 4 PM.,reminder
+smishing,Cl1ck h3re to v3rify your acc0unt immediately.,"obfuscation, malicious_pattern"
+benign,Your data bundle purchase was successful.,otp_notification
+smishing,"Dear customer, update your PayNow wallet PIN immediately at http://wallet-authentication.net","fear, urgency"
+benign,Your OTP for Steward Bank banking is 740165. Do not share this code.,personal_message
+smishing,Act now to avoid account suspension.,"obfuscation, malicious_pattern"
+smishing,You have received a tax refund. Submit banking details to receive payment.,"urgency, malicious_url"
+smishing,Your package delivery failed. Confirm address here: http://wallet-authentication.net,"obfuscation, malicious_pattern"
+smishing,Your SIM card will be blocked within 24 hours unless verified.,"urgency, malicious_url"
+smishing,Your WhatsApp account has been compromised. Verify identity immediately.,"urgency, malicious_url"
+benign,Your ZESA token purchase was successful.,otp_notification
+benign,Your data bundle purchase was successful.,transactional_sms
+benign,The bus will arrive in 10 minutes.,reminder
+benign,PayNow transfer of USD500 completed successfully.,reminder
+benign,Can you send me the assignment notes later?,personal_message
+benign,Your OTP for CBZ banking is 817952. Do not share this code.,reminder
+smishing,Act now to avoid account suspension.,"financial_lure, persuasion"
+smishing,Your Steward Bank account requires immediate verification. Click here: http://secure-login-update.com,"financial_lure, persuasion"
+smishing,Your package delivery failed. Confirm address here: http://wallet-authentication.net,"financial_lure, persuasion"
+benign,Meeting moved to 9 AM today.,banking_notification
+benign,Reminder: Your appointment is scheduled for tomorrow at 2 PM.,transactional_sms
+benign,Thank you for shopping with OK Zimbabwe.,banking_notification
+smishing,Win a free iPhone today by completing verification.,"urgency, malicious_url"
+smishing,Your package delivery failed. Confirm address here: http://secure-login-update.com,"impersonation, credential_request"
+smishing,You have received a tax refund. Submit banking details to receive payment.,"obfuscation, malicious_pattern"
+benign,Lunch was great today thank you.,transactional_sms
+benign,Your data bundle purchase was successful.,banking_notification
+smishing,You have received a tax refund. Submit banking details to receive payment.,"financial_lure, persuasion"
+smishing,Suspicious login detected on your account. Secure it now.,"impersonation, credential_request"
+benign,Airtime recharge successful.,transactional_sms
+benign,The bus will arrive in 10 minutes.,otp_notification
+smishing,Final warning: Your mobile banking access will be terminated today.,"impersonation, credential_request"
+smishing,Your package delivery failed. Confirm address here: http://secure-login-update.com,"financial_lure, persuasion"
+benign,Your parcel is ready for collection at Borrowdale.,reminder
+smishing,Your WhatsApp account has been compromised. Verify identity immediately.,"financial_lure, persuasion"
+benign,Electricity outage scheduled for tonight from 8 PM.,personal_message
+benign,Meeting moved to 2 PM today.,otp_notification
+smishing,Your BancABC account requires immediate verification. Click here: http://verify-account-security.com,"obfuscation, malicious_pattern"
+benign,Your data bundle purchase was successful.,banking_notification
+smishing,Cl1ck h3re to v3rify your acc0unt immediately.,"urgency, malicious_url"
+smishing,Your BancABC account requires immediate verification. Click here: http://wallet-authentication.net,"financial_lure, persuasion"
+smishing,Win a free iPhone today by completing verification.,"urgency, malicious_url"
+smishing,Act now to avoid account suspension.,"fear, urgency"
+benign,Electricity outage scheduled for tonight from 8 PM.,reminder
+benign,Your ZESA token purchase was successful.,personal_message
+benign,Lunch was great today thank you.,transactional_sms
+benign,Electricity outage scheduled for tonight from 8 PM.,banking_notification
+benign,Mukuru transfer of USD100 completed successfully.,banking_notification
+benign,Please remember our meeting tomorrow.,reminder
+smishing,Your SIM card will be blocked within 24 hours unless verified.,"fear, urgency"
+benign,Please remember our meeting tomorrow.,personal_message
+smishing,Cl1ck h3re to v3rify your acc0unt immediately.,"fear, urgency"
+benign,Your data bundle purchase was successful.,reminder
+benign,EcoCash transfer of USD500 completed successfully.,personal_message
+smishing,You have received a tax refund. Submit banking details to receive payment.,"impersonation, credential_request"
+smishing,Suspicious login detected on your account. Secure it now.,"fear, urgency"
+benign,Electricity outage scheduled for tonight from 8 PM.,otp_notification
+smishing,Congratulations! You have won USD500. Claim your reward now.,"obfuscation, malicious_pattern"
+benign,Your OTP for CBZ banking is 902020. Do not share this code.,personal_message
+benign,Exam timetable has been released.,personal_message
+benign,Airtime recharge successful.,banking_notification
+smishing,We noticed unauthorized activity in your account. Login immediately.,"impersonation, credential_request"
+benign,Your data bundle purchase was successful.,reminder
+smishing,Your WhatsApp account has been compromised. Verify identity immediately.,"fear, urgency"
+smishing,Your SIM card will be blocked within 24 hours unless verified.,"financial_lure, persuasion"
+smishing,Cl1ck h3re to v3rify your acc0unt immediately.,"financial_lure, persuasion"
+smishing,Cl1ck h3re to v3rify your acc0unt immediately.,"financial_lure, persuasion"
+benign,Please remember our meeting tomorrow.,personal_message
+benign,Please remember our meeting tomorrow.,transactional_sms
+smishing,URGENT: Your EcoCash account has been suspended. Verify now at http://secure-login-update.com,"impersonation, credential_request"
+smishing,Suspicious login detected on your account. Secure it now.,"fear, urgency"
+benign,Please remember our meeting tomorrow.,transactional_sms
+smishing,Win a free iPhone today by completing verification.,"impersonation, credential_request"
+smishing,Cl1ck h3re to v3rify your acc0unt immediately.,"fear, urgency"
+smishing,"Dear customer, update your PayNow wallet PIN immediately at http://secure-login-update.com","urgency, malicious_url"
+smishing,Your WhatsApp account has been compromised. Verify identity immediately.,"fear, urgency"
+smishing,We noticed unauthorized activity in your account. Login immediately.,"obfuscation, malicious_pattern"
+smishing,"Dear customer, update your PayNow wallet PIN immediately at http://secure-login-update.com","impersonation, credential_request"
+benign,Your data bundle purchase was successful.,reminder
+benign,Can you send me the assignment notes later?,transactional_sms
+benign,Your account balance is USD50.,transactional_sms
+benign,Electricity outage scheduled for tonight from 8 PM.,banking_notification
+smishing,Act now to avoid account suspension.,"obfuscation, malicious_pattern"
+smishing,Your NMB account requires immediate verification. Click here: http://account-update-alert.com,"financial_lure, persuasion"
+benign,Your ZESA token purchase was successful.,reminder
+smishing,Your SIM card will be blocked within 24 hours unless verified.,"impersonation, credential_request"
+smishing,URGENT: Your EcoCash account has been suspended. Verify now at http://account-update-alert.com,"obfuscation, malicious_pattern"
+smishing,Act now to avoid account suspension.,"obfuscation, malicious_pattern"
+benign,Your data bundle purchase was successful.,personal_message
+smishing,Cl1ck h3re to v3rify your acc0unt immediately.,"fear, urgency"
+benign,Meeting moved to 9 AM today.,transactional_sms
+benign,Exam timetable has been released.,personal_message
+benign,The bus will arrive in 10 minutes.,transactional_sms
+benign,Meeting moved to 2 PM today.,banking_notification
+smishing,Your package delivery failed. Confirm address here: http://verify-account-security.com,"urgency, malicious_url"
+benign,Airtime recharge successful.,banking_notification
+benign,Thank you for shopping with Bon Marche.,transactional_sms
+benign,Meeting moved to 4 PM today.,banking_notification
+smishing,Suspicious login detected on your account. Secure it now.,"urgency, malicious_url"
+benign,Your ZESA token purchase was successful.,transactional_sms
+smishing,Act now to avoid account suspension.,"obfuscation, malicious_pattern"
+benign,Can you send me the assignment notes later?,transactional_sms
+benign,Lunch was great today thank you.,otp_notification
+smishing,Your WhatsApp account has been compromised. Verify identity immediately.,"fear, urgency"
+smishing,"Dear customer, update your Mukuru wallet PIN immediately at http://secure-login-update.com","financial_lure, persuasion"
+smishing,We noticed unauthorized activity in your account. Login immediately.,"obfuscation, malicious_pattern"
+smishing,Win a free iPhone today by completing verification.,"financial_lure, persuasion"
+smishing,Suspicious login detected on your account. Secure it now.,"impersonation, credential_request"
+smishing,Your package delivery failed. Confirm address here: http://verify-account-security.com,"obfuscation, malicious_pattern"
+smishing,Cl1ck h3re to v3rify your acc0unt immediately.,"impersonation, credential_request"
+smishing,Your package delivery failed. Confirm address here: http://verify-account-security.com,"impersonation, credential_request"
+benign,Exam timetable has been released.,personal_message
+smishing,We noticed unauthorized activity in your account. Login immediately.,"obfuscation, malicious_pattern"
+benign,Please remember our meeting tomorrow.,otp_notification
+smishing,Cl1ck h3re to v3rify your acc0unt immediately.,"fear, urgency"
+smishing,Your WhatsApp account has been compromised. Verify identity immediately.,"urgency, malicious_url"
+smishing,Your package delivery failed. Confirm address here: http://wallet-authentication.net,"fear, urgency"
+smishing,URGENT: Your PayNow account has been suspended. Verify now at http://account-update-alert.com,"financial_lure, persuasion"
+benign,Can you send me the assignment notes later?,banking_notification
+smishing,Your package delivery failed. Confirm address here: http://account-update-alert.com,"financial_lure, persuasion"
+benign,Lunch was great today thank you.,transactional_sms
+smishing,Cl1ck h3re to v3rify your acc0unt immediately.,"fear, urgency"
+smishing,Cl1ck h3re to v3rify your acc0unt immediately.,"impersonation, credential_request"
+benign,Meeting moved to 10 AM today.,otp_notification
+benign,Your data bundle purchase was successful.,personal_message
+benign,Your data bundle purchase was successful.,otp_notification
+smishing,Your Steward Bank account requires immediate verification. Click here: http://account-update-alert.com,"financial_lure, persuasion"
+benign,Please remember our meeting tomorrow.,transactional_sms
+benign,Can you send me the assignment notes later?,personal_message
+benign,Happy birthday! Wishing you a wonderful day ahead.,transactional_sms
+benign,The bus will arrive in 10 minutes.,banking_notification
+smishing,Congratulations! You have won USD50. Claim your reward now.,"fear, urgency"
+smishing,Cl1ck h3re to v3rify your acc0unt immediately.,"obfuscation, malicious_pattern"
+benign,Your parcel is ready for collection at Borrowdale.,banking_notification
+benign,Your parcel is ready for collection at Avondale.,otp_notification
+smishing,Congratulations! You have won USD500. Claim your reward now.,"urgency, malicious_url"
+smishing,Your SIM card will be blocked within 24 hours unless verified.,"financial_lure, persuasion"
+benign,Reminder: Your appointment is scheduled for tomorrow at 9 AM.,banking_notification
+smishing,URGENT: Your Mukuru account has been suspended. Verify now at http://account-update-alert.com,"financial_lure, persuasion"
+benign,Electricity outage scheduled for tonight from 8 PM.,reminder
+smishing,Your SIM card will be blocked within 24 hours unless verified.,"urgency, malicious_url"
+smishing,You have received a tax refund. Submit banking details to receive payment.,"fear, urgency"
+smishing,Your SIM card will be blocked within 24 hours unless verified.,"urgency, malicious_url"
+benign,Your data bundle purchase was successful.,otp_notification
+smishing,Act now to avoid account suspension.,"impersonation, credential_request"
+smishing,Final warning: Your mobile banking access will be terminated today.,"financial_lure, persuasion"
+benign,Your account balance is USD100.,personal_message
+smishing,Win a free iPhone today by completing verification.,"fear, urgency"
+benign,Can you send me the assignment notes later?,reminder
+smishing,Congratulations! You have won USD50. Claim your reward now.,"fear, urgency"
+smishing,We noticed unauthorized activity in your account. Login immediately.,"obfuscation, malicious_pattern"
+smishing,We noticed unauthorized activity in your account. Login immediately.,"urgency, malicious_url"
+benign,Your ZESA token purchase was successful.,banking_notification
+smishing,Final warning: Your mobile banking access will be terminated today.,"obfuscation, malicious_pattern"
+smishing,Act now to avoid account suspension.,"impersonation, credential_request"
+benign,OneMoney transfer of USD500 completed successfully.,banking_notification
+benign,Your data bundle purchase was successful.,reminder
+benign,Airtime recharge successful.,reminder
+benign,Happy birthday! Wishing you a wonderful day ahead.,reminder
+benign,Happy birthday! Wishing you a wonderful day ahead.,reminder
+benign,Can you send me the assignment notes later?,otp_notification
+benign,Airtime recharge successful.,banking_notification
+smishing,"Dear customer, update your PayNow wallet PIN immediately at http://verify-account-security.com","obfuscation, malicious_pattern"
+smishing,You have received a tax refund. Submit banking details to receive payment.,"impersonation, credential_request"
+smishing,Your WhatsApp account has been compromised. Verify identity immediately.,"financial_lure, persuasion"
+smishing,Your Steward Bank account requires immediate verification. Click here: http://verify-account-security.com,"fear, urgency"
+smishing,Your package delivery failed. Confirm address here: http://secure-login-update.com,"obfuscation, malicious_pattern"
+smishing,URGENT: Your PayNow account has been suspended. Verify now at http://account-update-alert.com,"impersonation, credential_request"
+smishing,"Dear customer, update your Mukuru wallet PIN immediately at http://account-update-alert.com","obfuscation, malicious_pattern"
+smishing,Cl1ck h3re to v3rify your acc0unt immediately.,"impersonation, credential_request"
+benign,Reminder: Your appointment is scheduled for tomorrow at 2 PM.,otp_notification
+smishing,We noticed unauthorized activity in your account. Login immediately.,"urgency, malicious_url"
+benign,Your OTP for Steward Bank banking is 224851. Do not share this code.,otp_notification
+smishing,Final warning: Your mobile banking access will be terminated today.,"financial_lure, persuasion"
+smishing,Limited-time government grant available. Register now.,"urgency, malicious_url"
+benign,The bus will arrive in 10 minutes.,transactional_sms
+smishing,Your NMB account requires immediate verification. Click here: http://account-update-alert.com,"financial_lure, persuasion"
+benign,Airtime recharge successful.,personal_message
+benign,Airtime recharge successful.,reminder
+benign,Your data bundle purchase was successful.,personal_message
+benign,Your account balance is USD250.,personal_message
+benign,Electricity outage scheduled for tonight from 8 PM.,banking_notification
+smishing,Cl1ck h3re to v3rify your acc0unt immediately.,"impersonation, credential_request"
+benign,The bus will arrive in 10 minutes.,banking_notification
+smishing,Win a free iPhone today by completing verification.,"impersonation, credential_request"
+smishing,Suspicious login detected on your account. Secure it now.,"impersonation, credential_request"
+benign,Your OTP for Steward Bank banking is 162381. Do not share this code.,transactional_sms
+smishing,We noticed unauthorized activity in your account. Login immediately.,"impersonation, credential_request"
+benign,Your data bundle purchase was successful.,otp_notification
+benign,Please remember our meeting tomorrow.,personal_message
+benign,Meeting moved to 4 PM today.,reminder
+smishing,Final warning: Your mobile banking access will be terminated today.,"urgency, malicious_url"
+smishing,"Dear customer, update your OneMoney wallet PIN immediately at http://wallet-authentication.net","financial_lure, persuasion"
+benign,Exam timetable has been released.,reminder
+benign,Happy birthday! Wishing you a wonderful day ahead.,banking_notification
+benign,Lunch was great today thank you.,otp_notification
+smishing,You have received a tax refund. Submit banking details to receive payment.,"financial_lure, persuasion"
+benign,Thank you for shopping with Bon Marche.,transactional_sms
+benign,Can you send me the assignment notes later?,otp_notification
+smishing,You have received a tax refund. Submit banking details to receive payment.,"impersonation, credential_request"
+benign,Can you send me the assignment notes later?,transactional_sms
+benign,Your parcel is ready for collection at Avondale.,transactional_sms
+benign,Mukuru transfer of USD500 completed successfully.,banking_notification
+smishing,"Dear customer, update your PayNow wallet PIN immediately at http://wallet-authentication.net","impersonation, credential_request"
+smishing,Win a free iPhone today by completing verification.,"urgency, malicious_url"
+smishing,"Dear customer, update your Mukuru wallet PIN immediately at http://account-update-alert.com","urgency, malicious_url"
+smishing,Cl1ck h3re to v3rify your acc0unt immediately.,"fear, urgency"
+benign,Airtime recharge successful.,personal_message
+benign,Happy birthday! Wishing you a wonderful day ahead.,transactional_sms
+smishing,Suspicious login detected on your account. Secure it now.,"financial_lure, persuasion"
+smishing,Your WhatsApp account has been compromised. Verify identity immediately.,"impersonation, credential_request"
+benign,Airtime recharge successful.,banking_notification
+smishing,Limited-time government grant available. Register now.,"impersonation, credential_request"
+smishing,We noticed unauthorized activity in your account. Login immediately.,"obfuscation, malicious_pattern"
+benign,Thank you for shopping with TM Pick n Pay.,otp_notification
+smishing,We noticed unauthorized activity in your account. Login immediately.,"impersonation, credential_request"
+benign,The bus will arrive in 10 minutes.,transactional_sms
+benign,Exam timetable has been released.,reminder
+smishing,Your WhatsApp account has been compromised. Verify identity immediately.,"urgency, malicious_url"
+benign,Happy birthday! Wishing you a wonderful day ahead.,transactional_sms
+smishing,Limited-time government grant available. Register now.,"impersonation, credential_request"

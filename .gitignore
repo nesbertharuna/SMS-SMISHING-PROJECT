@@ -6,6 +6,10 @@ node_modules/
 # Data (keep placeholders; do not commit datasets)
 data/raw/*
 !data/raw/.gitkeep
+!data/raw/collected_sms_template.csv
+data/raw/collected_sms.csv
+data/raw/collected_sms.log.jsonl
+data/raw/uci_as_collected.csv
 data/processed/
 data/splits/*.csv
 
