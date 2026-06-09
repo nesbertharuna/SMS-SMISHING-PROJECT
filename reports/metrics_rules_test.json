@@ -1,0 +1,50 @@
+{
+  "evaluated_at_utc": "2026-06-04T20:54:34.143478+00:00",
+  "test_csv": "data\\splits\\test.csv",
+  "n_test": 776,
+  "rule_threshold": 6,
+  "predictions_csv": "C:\\Users\\Nesbert\\Desktop\\SMS SMISHING SOFTWARE\\reports\\pred_rules_test.csv",
+  "confusion_matrix_labels_[0,1]": [
+    [
+      678,
+      0
+    ],
+    [
+      71,
+      27
+    ]
+  ],
+  "metrics_pos1": {
+    "accuracy": 0.9085051546391752,
+    "precision": 1.0,
+    "recall": 0.2755102040816326,
+    "f1": 0.432
+  },
+  "classification_report": {
+    "0": {
+      "precision": 0.9052069425901201,
+      "recall": 1.0,
+      "f1-score": 0.9502452697967765,
+      "support": 678.0
+    },
+    "1": {
+      "precision": 1.0,
+      "recall": 0.2755102040816326,
+      "f1-score": 0.432,
+      "support": 98.0
+    },
+    "accuracy": 0.9085051546391752,
+    "macro avg": {
+      "precision": 0.9526034712950601,
+      "recall": 0.6377551020408163,
+      "f1-score": 0.6911226348983882,
+      "support": 776.0
+    },
+    "weighted avg": {
+      "precision": 0.917178230768172,
+      "recall": 0.9085051546391752,
+      "f1-score": 0.8847967692296578,
+      "support": 776.0
+    }
+  }
+}

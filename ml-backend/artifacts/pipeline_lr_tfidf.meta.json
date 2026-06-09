@@ -1,0 +1,18 @@
+{
+  "artifact": "C:\\Users\\Nesbert\\Desktop\\SMS SMISHING SOFTWARE\\ml-backend\\artifacts\\pipeline_lr_tfidf.joblib",
+  "trained_at_utc": "2026-06-09T08:26:12.093568+00:00",
+  "seed": 42,
+  "model": "tfidf+logreg(class_weight=balanced)",
+  "data": {
+    "train_csv": "data\\splits\\train.csv",
+    "val_csv": "data\\splits\\val.csv",
+    "n_train": 69,
+    "n_val": 15
+  },
+  "val_metrics": {
+    "accuracy": 0.8,
+    "precision_pos1": 1.0,
+    "recall_pos1": 0.5714285714285714,
+    "f1_pos1": 0.7272727272727273
+  }
+}

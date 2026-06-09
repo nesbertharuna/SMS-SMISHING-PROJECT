@@ -3,21 +3,43 @@
 # Node / JS
 node_modules/
 
-# Data (keep placeholders; do not commit datasets)
+# Data — ignore generated/local by default; canonical files whitelisted below
 data/raw/*
 !data/raw/.gitkeep
 !data/raw/collected_sms_template.csv
+!data/raw/SMSSpamCollection
 data/raw/collected_sms.csv
 data/raw/collected_sms.log.jsonl
 data/raw/uci_as_collected.csv
-data/processed/
-data/splits/*.csv
+data/raw/smsspamcollection.zip
 
-# ML artifacts and outputs
-ml-backend/artifacts/
-reports/
+data/processed/*
+!data/processed/dataset1.csv
+!data/processed/dissertation.csv
+!data/processed/Dataset for dissertation.csv.xlsx
+
+data/splits/*
+!data/splits/.gitkeep
+!data/splits/train.csv
+!data/splits/val.csv
+!data/splits/test.csv
+
+# ML artifacts — commit canonical trained model for Colab/inference
+ml-backend/artifacts/*
+!ml-backend/artifacts/pipeline_lr_tfidf.joblib
+!ml-backend/artifacts/pipeline_lr_tfidf.meta.json
+
+# Reports — commit canonical thesis evaluation outputs
+reports/*
+!reports/metrics_ml_test.json
+!reports/metrics_rules_test.json
+!reports/compare_ml_vs_rules.json
+!reports/pred_ml_test.csv
+!reports/pred_rules_test.csv
+
+# Local backups
+*.bak
 
 # Python caches
 __pycache__/
 *.pyc
-

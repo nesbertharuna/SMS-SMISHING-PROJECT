@@ -1,0 +1,26 @@
+{
+  "evaluated_at_utc": "2026-06-04T20:54:36.343470+00:00",
+  "test_csv": "data\\splits\\test.csv",
+  "pred_ml": "reports\\pred_ml_test.csv",
+  "pred_rules": "reports\\pred_rules_test.csv",
+  "metrics": {
+    "ml": {
+      "accuracy": 0.9780927835051546,
+      "precision_pos1": 0.8932038834951457,
+      "recall_pos1": 0.9387755102040817,
+      "f1_pos1": 0.9154228855721394
+    },
+    "rules": {
+      "accuracy": 0.9085051546391752,
+      "precision_pos1": 1.0,
+      "recall_pos1": 0.2755102040816326,
+      "f1_pos1": 0.432
+    }
+  },
+  "mcnemar_exact": {
+    "b_ml_correct_rules_wrong": 65,
+    "c_ml_wrong_rules_correct": 11,
+    "n_discordant": 76,
+    "p_value": 1.81197137160965e-10
+  }
+}
