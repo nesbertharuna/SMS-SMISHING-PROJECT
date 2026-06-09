@@ -72,7 +72,7 @@ def build_nb_pipeline(
     return Pipeline(
         steps=[
             ("tfidf", vectorizer),
-            ("nb", nb),
+            ("clf", nb),
         ]
     )
 

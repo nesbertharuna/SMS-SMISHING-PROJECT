@@ -1,9 +1,11 @@
 "use client";
 
-import { onAuthStateChanged, signOut } from "firebase/auth";
+import { onAuthStateChanged, signOut, type User } from "firebase/auth";
+import { ref, push, query, orderByChild, limitToLast, onValue } from "firebase/database";
 import { FormEvent, useEffect, useMemo, useState } from "react";
 import { useRouter } from "next/navigation";
-import { auth, hasFirebaseConfig } from "@/lib/firebase";
+import { auth, db, hasFirebaseConfig } from "@/lib/firebase";
+import { downloadSmishingReportPdf } from "@/lib/pdf-report";
 
 type ClassifyResponse = {
   label: "benign" | "smishing";
@@ -15,6 +17,16 @@ type ClassifyResponse = {
   explanation_note?: string;
 };
 
+type ScanRecord = {
+  id: string;
+  text: string;
+  label: string;
+  risk_percent: number | null;
+  verdict: string;
+  scanned_at: string;
+  source: "web" | "mobile";
+};
+
 export default function Home() {
   const router = useRouter();
   const [text, setText] = useState("");
@@ -22,8 +34,11 @@ export default function Home() {
   const [error, setError] = useState<string | null>(null);
   const [result, setResult] = useState<ClassifyResponse | null>(null);
   const [loggedInUser, setLoggedInUser] = useState<string | null>(null);
+  const [currentUser, setCurrentUser] = useState<User | null>(null);
   const [checkingAuth, setCheckingAuth] = useState(hasFirebaseConfig);
   const [loggingOut, setLoggingOut] = useState(false);
+  const [downloadingPdf, setDownloadingPdf] = useState(false);
+  const [history, setHistory] = useState<ScanRecord[]>([]);
 
   useEffect(() => {
     if (!auth || !hasFirebaseConfig) return;
@@ -31,17 +46,41 @@ export default function Home() {
     const unsub = onAuthStateChanged(auth, (user) => {
       if (!user) {
         setLoggedInUser(null);
+        setCurrentUser(null);
         setCheckingAuth(false);
+        setHistory([]);
         router.replace("/login");
         return;
       }
 
+      setCurrentUser(user);
       setLoggedInUser(user.email ?? "Authenticated user");
       setCheckingAuth(false);
     });
 
     return () => unsub();
   }, [router]);
+
+  useEffect(() => {
+    if (!db || !currentUser) return;
+
+    const scansRef = query(
+      ref(db, `scans/${currentUser.uid}`),
+      orderByChild("scanned_at"),
+      limitToLast(20),
+    );
+
+    const unsub = onValue(scansRef, (snapshot) => {
+      const records: ScanRecord[] = [];
+      snapshot.forEach((child) => {
+        records.push({ id: child.key!, ...child.val() });
+      });
+      records.reverse();
+      setHistory(records);
+    });
+
+    return () => unsub();
+  }, [currentUser]);
 
   const riskLine = useMemo(() => {
     if (!result || result.risk_percent_smishing === null || Number.isNaN(result.risk_percent_smishing)) {
@@ -77,7 +116,20 @@ export default function Home() {
         const detail = typeof body?.details === "string" ? body.details : "Classification failed.";
         throw new Error(detail);
       }
-      setResult(body as ClassifyResponse);
+      const classified = body as ClassifyResponse;
+      setResult(classified);
+
+      if (db && currentUser) {
+        const scanEntry = {
+          text: cleanText,
+          label: classified.label,
+          risk_percent: classified.risk_percent_smishing ?? null,
+          verdict: classified.verdict_plain,
+          scanned_at: new Date().toISOString(),
+          source: "web" as const,
+        };
+        push(ref(db, `scans/${currentUser.uid}`), scanEntry).catch(() => {});
+      }
     } catch (err) {
       const message = err instanceof Error ? err.message : "Unexpected error occurred.";
       setError(message);
@@ -100,6 +152,28 @@ export default function Home() {
     } catch {
       setError("Failed to log out. Please try again.");
       setLoggingOut(false);
+    }
+  }
+
+  async function onDownloadPdf() {
+    if (!result) {
+      setError("Run an analysis first before exporting a PDF report.");
+      return;
+    }
+
+    setError(null);
+    setDownloadingPdf(true);
+    try {
+      await downloadSmishingReportPdf({
+        submittedText: text.trim(),
+        result,
+        exportedAt: new Date(),
+      });
+    } catch (err) {
+      const message = err instanceof Error ? err.message : "Failed to generate the PDF report.";
+      setError(message);
+    } finally {
+      setDownloadingPdf(false);
     }
   }
 
@@ -209,6 +283,51 @@ export default function Home() {
             {result.explanation_note ? (
               <p className="text-xs leading-relaxed text-slate-500">{result.explanation_note}</p>
             ) : null}
+
+            <div className="pt-2">
+              <button
+                type="button"
+                onClick={onDownloadPdf}
+                disabled={downloadingPdf}
+                className="rounded-full border border-cyan-300/40 bg-cyan-400/10 px-4 py-2 text-sm font-semibold text-cyan-100 transition hover:bg-cyan-400/20 disabled:cursor-not-allowed disabled:opacity-60"
+              >
+                {downloadingPdf ? "Generating PDF..." : "Download PDF Report"}
+              </button>
+            </div>
+          </section>
+        ) : null}
+
+        {history.length > 0 ? (
+          <section className="mt-8">
+            <h2 className="text-lg font-semibold tracking-tight">Scan History</h2>
+            <p className="mt-1 text-xs text-slate-400">Last {history.length} scans (synced in real time)</p>
+            <div className="mt-4 space-y-3">
+              {history.map((rec) => (
+                <div
+                  key={rec.id}
+                  className="rounded-2xl border border-white/10 bg-slate-950/40 px-4 py-3"
+                >
+                  <div className="flex flex-wrap items-center gap-2">
+                    <span
+                      className={`rounded-full px-3 py-0.5 text-xs font-semibold uppercase tracking-wide ${
+                        rec.label === "smishing"
+                          ? "bg-rose-500/20 text-rose-200"
+                          : "bg-emerald-500/20 text-emerald-200"
+                      }`}
+                    >
+                      {rec.label}
+                    </span>
+                    {rec.risk_percent != null ? (
+                      <span className="text-xs text-slate-400">{rec.risk_percent}% risk</span>
+                    ) : null}
+                    <span className="ml-auto text-xs text-slate-500">
+                      {new Date(rec.scanned_at).toLocaleString()} &middot; {rec.source}
+                    </span>
+                  </div>
+                  <p className="mt-2 line-clamp-2 text-sm text-slate-300">{rec.text}</p>
+                </div>
+              ))}
+            </div>
           </section>
         ) : null}
       </main>

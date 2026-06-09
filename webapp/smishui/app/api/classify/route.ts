@@ -1,11 +1,25 @@
 import { NextResponse } from "next/server";
+import os from "os";
 import path from "path";
+import fs from "fs";
 import { spawn } from "child_process";
 
 type ClassifyRequest = {
   text: string;
   top_k?: number;
 };
+
+function findPythonExe(repoRoot: string): string {
+  const isWindows = os.platform() === "win32";
+  const venvPython = isWindows
+    ? path.join(repoRoot, ".venv", "Scripts", "python.exe")
+    : path.join(repoRoot, ".venv", "bin", "python");
+
+  if (fs.existsSync(venvPython)) return venvPython;
+
+  // Fallback: system python
+  return isWindows ? "python" : "python3";
+}
 
 export async function POST(req: Request) {
   try {
@@ -19,8 +33,22 @@ export async function POST(req: Request) {
 
     // Next dev server runs from webapp/smishui. Repo root is two levels up.
     const repoRoot = path.resolve(process.cwd(), "..", "..");
-    const pythonExe = path.join(repoRoot, ".venv", "Scripts", "python.exe");
+    const pythonExe = findPythonExe(repoRoot);
     const scriptPath = path.join(repoRoot, "ml-backend", "api", "classify.py");
+
+    const artifactRel = "ml-backend/artifacts/pipeline_lr_tfidf.joblib";
+    const artifactAbs = path.join(repoRoot, artifactRel);
+    if (!fs.existsSync(artifactAbs)) {
+      return NextResponse.json(
+        {
+          error: "model_not_trained",
+          details:
+            "The ML model artifact was not found. Please run the training pipeline first " +
+            "(see RUN_PIPELINE.md) to generate the model before classifying messages.",
+        },
+        { status: 503 },
+      );
+    }
 
     const payload = JSON.stringify({
       text,

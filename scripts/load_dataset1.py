@@ -42,7 +42,17 @@ def load_dataset1(path: str | Path) -> pd.DataFrame:
 
     # Basic cleanup
     df = df.dropna(subset=["message", "label"]).copy()
-    df = df.drop_duplicates(subset=["label", "message"]).reset_index(drop=True)
+
+    # Deduplicate by message only. If a message appears with multiple labels,
+    # treat it as smishing if any row is labeled smishing.
+    df = (
+        df.groupby("message", as_index=False)
+        .agg(
+            label=("label", "max"),
+            source=("source", "first"),
+        )
+        .reset_index(drop=True)
+    )
     return df[["label", "message", "source"]]
 
 
