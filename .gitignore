@@ -1,0 +1,16 @@
+.venv/
+
+# Data (keep placeholders; do not commit datasets)
+data/raw/*
+!data/raw/.gitkeep
+data/processed/
+data/splits/*.csv
+
+# ML artifacts and outputs
+ml-backend/artifacts/
+reports/
+
+# Python caches
+__pycache__/
+*.pyc
+

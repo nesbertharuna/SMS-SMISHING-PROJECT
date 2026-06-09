@@ -15,11 +15,11 @@ from sklearn.pipeline import Pipeline
 
 def _load_preprocess_sms_to_string():
     """
-    Load `preprocess_sms_to_string` from `ml-backend/prepocessing/clean_text.py`
+    Load `preprocess_sms_to_string` from `ml-backend/preprocessing/clean_text.py`
     without requiring package (__init__.py) setup.
     """
     backend_root = Path(__file__).resolve().parents[1]  # .../ml-backend
-    clean_text_path = backend_root / "prepocessing" / "clean_text.py"
+    clean_text_path = backend_root / "preprocessing" / "clean_text.py"
 
     spec = importlib.util.spec_from_file_location("clean_text", clean_text_path)
     if spec is None or spec.loader is None:

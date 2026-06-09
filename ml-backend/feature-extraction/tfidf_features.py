@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 from dataclasses import dataclass
+from functools import partial
 from typing import Any, Dict, Iterable, List, Optional, Sequence, Tuple
 
 from sklearn.feature_extraction.text import TfidfVectorizer
@@ -15,11 +16,11 @@ from pathlib import Path
 
 def _load_preprocess_sms_to_string():
     """
-    Load `preprocess_sms_to_string` from `ml-backend/prepocessing/clean_text.py`
+    Load `preprocess_sms_to_string` from `ml-backend/preprocessing/clean_text.py`
     without requiring package (__init__.py) setup.
     """
     backend_root = Path(__file__).resolve().parents[1]  # .../ml-backend
-    clean_text_path = backend_root / "prepocessing" / "clean_text.py"
+    clean_text_path = backend_root / "preprocessing" / "clean_text.py"
 
     spec = importlib.util.spec_from_file_location("clean_text", clean_text_path)
     if spec is None or spec.loader is None:
@@ -30,6 +31,15 @@ def _load_preprocess_sms_to_string():
 
 
 preprocess_sms_to_string = _load_preprocess_sms_to_string()
+
+
+def _preprocess_for_vectorizer(
+    doc: str,
+    *,
+    stopwords: Optional[Sequence[str]] = None,
+    keep_numbers: bool = True,
+) -> str:
+    return preprocess_sms_to_string(doc, stopwords=stopwords, keep_numbers=keep_numbers)
 
 
 @dataclass(frozen=True)
@@ -58,11 +68,8 @@ def build_tfidf_pipeline(
     cfg = tfidf or TfidfConfig()
     classifier = clf or LogisticRegression(max_iter=2000, n_jobs=None, class_weight="balanced")
 
-    def _preprocess(doc: str) -> str:
-        return preprocess_sms_to_string(doc, stopwords=stopwords, keep_numbers=keep_numbers)
-
     vectorizer = TfidfVectorizer(
-        preprocessor=_preprocess,
+        preprocessor=partial(_preprocess_for_vectorizer, stopwords=stopwords, keep_numbers=keep_numbers),
         tokenizer=str.split,  # tokens are space-separated from preprocess_sms_to_string
         token_pattern=None,  # required when providing a custom tokenizer
         lowercase=False,  # we already lowercase in preprocess
@@ -133,11 +140,8 @@ def featurize_texts(
     """
     cfg = tfidf or TfidfConfig()
 
-    def _preprocess(doc: str) -> str:
-        return preprocess_sms_to_string(doc, stopwords=stopwords, keep_numbers=keep_numbers)
-
     vectorizer = TfidfVectorizer(
-        preprocessor=_preprocess,
+        preprocessor=partial(_preprocess_for_vectorizer, stopwords=stopwords, keep_numbers=keep_numbers),
         tokenizer=str.split,
         token_pattern=None,
         lowercase=False,
